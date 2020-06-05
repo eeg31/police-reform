@@ -58,8 +58,6 @@ deaths <- deaths_raw %>%
 
 breakdown <- table(deaths$city, deaths$victim_race)
 
-original_study <- table(filter(deaths, date>='2016-01-01' & date <='2016-07-15')$city)
-
 cities <- cities %>%
           mutate(all_deaths = purrr::map_dbl(city, function(i){
             if(i %in% rownames(breakdown)) return(sum(breakdown[i,]))
@@ -68,11 +66,6 @@ cities <- cities %>%
             black_deaths = purrr::map_dbl(city, function(i){
               if(i %in% rownames(breakdown)) return(breakdown[i,'Black'])
               0
-            }),
-            deaths_original2016 = purrr::map_dbl(city, function(i){
-              out <- original_study[i]
-              if(is.na(out)) return(0)
-              out
             }),
             row=1:nrow(.),
             policy_index = purrr::map_dbl(row, function(i){
@@ -101,7 +94,7 @@ ggplot(cities) +
 ggplot(cities) +
   geom_jitter(aes(x=policy_index, 
                   group=policy_index,
-                  y=deaths_original2016/pop2010),
+                  y=deaths2016/pop2010),
               width=0.2) +
   scale_x_continuous('number of 8 Can\'t Wait policies enacted')+
   scale_y_continuous('per capita deaths by law enforcement')+
