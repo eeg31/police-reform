@@ -1,0 +1,10 @@
+P3
+RACE
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see <a href="http://www.census.gov/prod/cen2010/doc/sf1.pdf"> http://www.census.gov/prod/cen2010/doc/sf1.pdf</a>.
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see <a href="http://www.census.gov/prod/cen2010/doc/sf1.pdf"> http://www.census.gov/prod/cen2010/doc/sf1.pdf</a>.
+
+Source: U.S. Census Bureau, 2010 Census.
+
+Source: U.S. Census Bureau, 2010 Census.
+

@@ -1,0 +1,9 @@
+﻿policy,existing adherents,n,reduction
+require deescalation,34,91,0.15
+use force continuum or matrix,77,91,0.19
+restrict holds,21,91,0.22
+require warning,56,91,0.05
+prohibit shooting at moving vehicles,19,91,0.08
+require exhaustion of alternatives,31,91,0.25
+require officer intervention,30,91,0.09
+require reporting,15,91,0.25

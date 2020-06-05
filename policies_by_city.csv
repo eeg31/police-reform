@@ -1,0 +1,92 @@
+﻿city,state,pop2010,black_pop2010,white_pop2010,new2016,require deescalation,use force continuum or matrix,restrict holds,require warning,prohibit shooting at moving vehicles,require exhaustion of alternatives,require officer intervention,require reporting
+Albuquerque,New Mexico,545852,17933,380552,0,1,1,0,1,1,0,1,0
+Anaheim,California,336265,9347,177237,0,0,1,0,1,0,0,1,0
+Anchorage,Alaska,291826,16226,192498,0,1,1,0,0,1,0,0,0
+Arlington,Texas,365438,68792,215588,0,1,1,0,0,1,1,0,1
+Atlanta,Georgia,420003,226894,161115,0,0,1,1,0,0,0,0,0
+Aurora,Colorado,325078,51196,198720,0,0,1,0,0,1,0,1,0
+Austin,Texas,790390,64406,539760,0,0,1,0,1,0,0,1,0
+Bakersfield,California,347483,28368,197349,0,0,0,0,1,0,0,0,0
+Baltimore,Maryland,620961,395781,183830,1,1,1,0,1,0,1,1,1
+Baton Rouge,Louisiana,229493,125155,90348,0,0,1,0,0,0,1,0,0
+Boston,Massachusetts,617594,150437,333033,0,0,1,1,0,1,1,0,0
+Buffalo,New York,261310,100774,131753,0,0,1,0,0,1,1,0,0
+Chandler,Arizona,236123,11276,173065,0,1,1,0,1,0,0,0,0
+Charlotte,North Carolina,731424,256241,365384,0,0,1,0,1,0,0,0,0
+Chicago,Illinois,2695598,887608,1212835,0,1,1,0,0,1,0,0,0
+Chula Vista,California,243916,11219,130991,0,0,0,0,1,0,0,1,0
+Cincinnati,Ohio,296943,133039,146435,0,1,1,0,1,1,1,0,0
+Cleveland,Ohio,396815,211672,147929,0,1,1,1,0,1,0,1,0
+Columbus,Ohio,787033,220241,483677,0,0,1,1,1,0,0,0,0
+Corpus Christi,Texas,305215,13254,246988,0,1,0,1,1,0,1,1,0
+Dallas,Texas,1197816,298993,607415,0,1,1,0,0,0,1,0,0
+Denver,Colorado,600158,61435,413696,0,1,1,0,1,0,1,0,0
+Detroit,Michigan,713777,590226,75758,0,0,1,1,1,0,1,0,0
+Durham,North Carolina,228330,93517,96932,0,1,1,0,0,0,0,0,0
+Fort Wayne,Indiana,253691,39085,186763,0,0,1,0,1,1,0,0,0
+Fort Worth,Texas,741206,140133,452885,0,0,1,1,0,0,0,0,0
+Fremont,California,214089,7103,70320,0,0,0,0,1,0,0,1,0
+Fresno,California,494665,40960,245306,0,0,0,0,1,0,0,0,0
+Garland,Texas,226876,32980,130368,0,0,0,0,1,0,0,0,0
+Glendale,Arizona,226721,13686,153769,0,0,1,0,0,0,1,0,0
+Greensboro,North Carolina,269666,109586,130396,0,1,0,0,0,0,0,0,0
+Henderson,Nevada,257729,13142,198170,0,1,1,0,0,0,1,1,0
+Honolulu,Hawaii,337256,4974,60409,0,1,1,0,1,0,0,0,0
+Houston,Texas,2099451,498466,1060491,0,0,1,0,0,0,0,0,0
+Indianapolis,Indiana,820445,225355,507005,0,0,0,0,1,0,0,0,0
+Irvine,California,212375,3718,107215,0,0,1,0,1,0,0,1,0
+Irving,Texas,216290,26522,114779,0,0,0,0,0,0,0,0,0
+Jacksonville,Florida,821784,252421,488473,0,0,1,1,1,0,0,0,0
+Kansas City,Missouri,459787,137540,272305,0,0,0,0,0,0,0,0,0
+Laredo,Texas,236091,1110,207067,0,0,1,0,1,0,1,0,0
+Las Vegas,Nevada,583756,64858,362264,0,1,1,0,1,0,0,1,0
+Lexington,Kentucky,295803,42972,223999,0,0,1,0,0,0,1,0,1
+Lincoln,Nebraska,258379,9824,222331,0,1,1,0,1,0,1,0,0
+Los Angeles,California,3792621,365118,1888158,0,0,1,1,0,0,0,1,0
+Louisville,Kentucky,597337,136705,421439,0,1,1,0,1,1,1,0,0
+Lubbock,Texas,229573,19647,174014,0,0,1,0,0,0,1,0,0
+Madison,Wisconsin,233209,16926,184030,0,0,1,1,1,0,1,0,0
+Mesa,Arizona,439041,15289,338591,0,0,1,0,1,0,0,0,0
+Miami,Florida,399457,76880,289920,0,0,1,1,1,1,1,1,0
+Milwaukee,Wisconsin,594833,237769,266339,0,0,1,0,1,0,0,1,0
+Minneapolis,Minnesota,382578,71098,244086,1,1,1,0,1,0,0,1,0
+Nashville,Tennessee,601222,170907,363611,0,0,1,0,1,0,1,0,0
+New Orleans,Louisiana,343829,206871,113428,0,1,1,1,0,1,0,1,1
+New York,New York,8175133,2088510,3597341,1,1,1,0,0,1,0,1,0
+Newark,New Jersey,277140,145085,72914,0,0,1,0,1,0,1,1,0
+Norfolk,Virginia,242803,104672,114304,0,1,1,0,0,0,0,0,0
+North Las Vegas,Nevada,216961,43153,102829,0,0,0,0,0,0,1,0,0
+Oakland,California,390724,109471,134925,0,1,1,0,0,0,1,1,1
+Oklahoma City,Oklahoma,579999,87354,363646,0,0,1,0,1,0,0,0,0
+Omaha,Nebraska,408958,55950,298815,0,0,1,0,1,0,0,0,0
+Orlando,Florida,238300,66876,137159,1,0,1,0,0,0,0,1,0
+Philadelphia,Pennsylvania,1526006,661839,626221,0,1,1,1,1,1,1,1,0
+Phoenix,Arizona,1445632,93608,951958,0,0,1,0,1,0,0,1,0
+Pittsburgh,Pennsylvania,305704,79710,201766,0,1,1,0,0,0,0,0,0
+Plano,Texas,259841,19697,173865,0,0,1,1,1,0,1,0,1
+Portland,Oregon,583776,36695,444216,0,0,1,0,1,0,0,0,1
+Raleigh,North Carolina,403892,118471,232377,0,0,1,0,1,0,1,1,1
+Reno,Nevada,225221,6429,167179,0,0,0,0,0,0,0,0,0
+Riverside,California,303871,21421,171669,0,1,1,0,1,0,0,0,0
+Rochester,New York,210565,87897,91951,0,0,1,0,0,0,0,0,0
+San Antonio,Texas,1327407,91280,963413,0,1,1,0,0,0,0,1,0
+San Bernardino,California,209924,31582,95734,0,1,1,0,1,0,0,1,0
+San Diego,California,1307402,87949,769971,0,0,1,0,1,0,0,0,0
+San Francisco,California,805235,48870,390387,1,1,1,0,1,0,0,0,1
+San Jose,California,945942,30242,404437,1,0,1,1,0,0,0,0,0
+Santa Ana,California,324528,4856,148838,0,0,1,0,1,0,0,0,0
+Scottsdale,Arizona,217385,3652,194062,0,0,1,0,1,0,0,0,0
+Seattle,Washington,608660,48316,422870,0,1,1,1,1,0,0,1,1
+Spokane,Washington,208916,4843,181039,0,0,1,0,1,0,0,1,0
+St Louis,Missouri,319294,157160,140267,0,0,1,0,1,1,1,0,0
+St Paul,Minnesota,285068,44728,171365,0,1,1,1,1,0,1,1,1
+St Petersburg,Florida,244769,58577,168036,0,1,1,1,1,1,1,0,0
+Stockton,California,291707,35548,108044,0,0,0,0,0,0,0,0,0
+Tampa,Florida,335709,87872,211217,0,0,1,0,0,0,0,0,0
+Toledo,Ohio,287208,78073,186188,0,0,1,0,1,0,0,0,0
+Tucson,Arizona,520116,26000,362649,0,0,1,0,0,1,1,0,0
+Tulsa,Oklahoma,391906,62164,245309,0,0,1,1,1,0,0,0,0
+Virginia Beach,Virginia,437994,85935,296670,0,0,0,1,1,0,0,1,1
+Washington DC,DC,601723,305125,231471,0,1,1,1,1,1,1,0,1
+Wichita,Kansas,382368,43807,275080,0,0,1,0,1,0,0,0,1
+Winston-Salem,North Carolina,229617,79598,117600,0,1,1,0,1,0,0,0,1
