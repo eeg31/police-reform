@@ -25,7 +25,7 @@ cities <- cities %>%
             }),
             row=1:nrow(.),
             policy_index = purrr::map_dbl(row, function(i){
-              sum(cities[i,7:14])
+              sum(cities[i,6:13])
             }))
             
 ggplot(cities) +
