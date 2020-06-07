@@ -1,0 +1,1445 @@
+state,city,Function,date_str,Full-time employees,Part-time employees,Monthly full-time payroll,Average yearly full-time wage,Monthly part-time payroll
+Arizona,Mesa,Police Protection - Officers,March 2016,724,0,5210294,86358,0
+Arizona,Mesa,Police - Other,March 2016,463,15,2543010,65910,31768
+Arizona,Mesa,Firefighters,March 2016,413,0,3012943,87543,0
+Arizona,Mesa,Financial Administration,March 2016,333,4,2061119,74275,10354
+Arizona,Mesa,Other and Unallocable,March 2016,236,1,1433670,72898,4692
+Arizona,Mesa,Parks and Recreation,March 2016,203,299,1004836,59399,163532
+Arizona,Mesa,Water Supply,March 2016,157,0,860649,65782,0
+Arizona,Mesa,Streets and Highways,March 2016,152,0,783992,61894,0
+Arizona,Mesa,Solid Waste Management,March 2016,139,2,726948,62758,5527
+Arizona,Mesa,Judicial and Legal,March 2016,137,1,873104,76476,3558
+Arizona,Mesa,Fire - Other,March 2016,123,8,765076,74642,16078
+Arizona,Mesa,Other Government Administration,March 2016,97,7,631570,78132,15192
+Arizona,Mesa,Sewerage,March 2016,91,0,463171,61077,0
+Arizona,Mesa,Gas Supply,March 2016,76,0,490243,77407,0
+Arizona,Mesa,Welfare,March 2016,62,1,370789,71766,2225
+Arizona,Mesa,Local Libraries,March 2016,60,25,287926,57585,26206
+Arizona,Mesa,Electric Power,March 2016,41,0,273905,80167,0
+Arizona,Mesa,Housing and Community Development (Local),March 2016,40,0,197178,59153,0
+Arizona,Mesa,Airports,March 2016,11,0,60357,65844,0
+Arizona,Mesa,Transit,March 2016,3,0,19428,77712,0
+Arizona,Mesa,Totals for Government,March 2016,NA,363,22070208,74373,279132
+Arizona,Phoenix,Police Protection - Officers,March 2016,NA,0,21951673,89144,0
+Arizona,Phoenix,Firefighters,March 2016,NA,0,11853622,87750,0
+Arizona,Phoenix,Police - Other,March 2016,NA,16,4667462,55675,10619
+Arizona,Phoenix,Solid Waste Management,March 2016,993,5,4451840,53799,7191
+Arizona,Phoenix,Water Supply,March 2016,980,14,5072874,62117,18080
+Arizona,Phoenix,Airports,March 2016,779,0,3943822,60752,0
+Arizona,Phoenix,Parks and Recreation,March 2016,633,496,2641659,50079,625041
+Arizona,Phoenix,Streets and Highways,March 2016,587,0,2922825,59751,0
+Arizona,Phoenix,Other Government Administration,March 2016,530,7,3253816,73671,15049
+Arizona,Phoenix,Judicial and Legal,March 2016,457,22,2640843,69344,63526
+Arizona,Phoenix,Housing and Community Development (Local),March 2016,434,2,2221504,61424,3158
+Arizona,Phoenix,Financial Administration,March 2016,419,1,2807928,80418,648
+Arizona,Phoenix,Sewerage,March 2016,332,0,1332646,48168,0
+Arizona,Phoenix,Fire - Other,March 2016,320,35,1668719,62577,54540
+Arizona,Phoenix,Welfare,March 2016,259,42,1310043,60697,60468
+Arizona,Phoenix,Other and Unallocable,March 2016,214,27,1054574,59135,38228
+Arizona,Phoenix,Local Libraries,March 2016,162,325,792196,58681,423408
+Arizona,Phoenix,Transit,March 2016,93,1,555537,71682,2050
+Arizona,Phoenix,Totals for Government,March 2016,NA,993,75143583,70590,1322006
+Arizona,Tucson,Police Protection - Officers,March 2016,930,1,5952374,76805,495
+Arizona,Tucson,Firefighters,March 2016,642,0,3962212,74060,0
+Arizona,Tucson,Water Supply,March 2016,497,7,2324024,56113,17105
+Arizona,Tucson,Police - Other,March 2016,376,22,1943682,62032,51698
+Arizona,Tucson,Parks and Recreation,March 2016,343,440,1300223,45489,345069
+Arizona,Tucson,Other and Unallocable,March 2016,290,3,1305715,54030,2326
+Arizona,Tucson,Streets and Highways,March 2016,265,4,1203055,54478,6809
+Arizona,Tucson,Financial Administration,March 2016,258,5,1308891,60879,5470
+Arizona,Tucson,Judicial and Legal,March 2016,222,6,1062345,57424,17901
+Arizona,Tucson,Airports,March 2016,219,27,1199760,65740,15184
+Arizona,Tucson,Solid Waste Management,March 2016,218,1,885295,48732,5334
+Arizona,Tucson,Housing and Community Development (Local),March 2016,170,2,743794,52503,3978
+Arizona,Tucson,Other Government Administration,March 2016,163,20,833137,61335,47660
+Arizona,Tucson,Fire - Other,March 2016,127,0,557721,52698,0
+Arizona,Tucson,Sewerage,March 2016,3,0,13212,52848,0
+Arizona,Tucson,Totals for Government,March 2016,NA,538,24595440,62491,519029
+California,Fresno,Police Protection - Officers,March 2016,735,0,6210872,101402,0
+California,Fresno,Transit,March 2016,376,12,1732676,55298,24931
+California,Fresno,Firefighters,March 2016,293,0,2985229,122262,0
+California,Fresno,Police - Other,March 2016,254,35,1054543,49821,82033
+California,Fresno,Water Supply,March 2016,246,10,1141947,55705,15053
+California,Fresno,Streets and Highways,March 2016,244,27,1293783,63629,42060
+California,Fresno,Other and Unallocable,March 2016,173,6,854353,59261,15079
+California,Fresno,Solid Waste Management,March 2016,171,2,674682,47346,3016
+California,Fresno,Sewerage,March 2016,162,0,811020,60076,0
+California,Fresno,Financial Administration,March 2016,96,9,542981,67873,13078
+California,Fresno,Airports,March 2016,78,35,393656,60562,78370
+California,Fresno,Other Government Administration,March 2016,72,3,460461,76744,1439
+California,Fresno,Parks and Recreation,March 2016,67,172,290893,52100,152808
+California,Fresno,Fire - Other,March 2016,44,2,226453,61760,2777
+California,Fresno,Judicial and Legal,March 2016,32,0,231435,86788,0
+California,Fresno,Welfare,March 2016,0,0,0,NA,0
+California,Fresno,Housing and Community Development (Local),March 2016,0,0,0,NA,0
+California,Fresno,Totals for Government,March 2016,NA,313,18904984,74551,430644
+California,Long Beach,Police Protection - Officers,March 2016,850,0,8738189,123363,0
+California,Long Beach,Transit,March 2016,696,14,3284547,56630,25433
+California,Long Beach,Water Transport and Terminals,March 2016,498,38,3978908,95877,71079
+California,Long Beach,Other and Unallocable,March 2016,472,37,3464434,88079,82411
+California,Long Beach,Firefighters,March 2016,350,0,4784066,164025,0
+California,Long Beach,Health,March 2016,255,43,1416233,66646,110010
+California,Long Beach,Police - Other,March 2016,243,75,1374201,67862,155589
+California,Long Beach,Parks and Recreation,March 2016,197,445,1071978,65298,555146
+California,Long Beach,Gas Supply,March 2016,179,4,1032732,69233,10877
+California,Long Beach,Other Government Administration,March 2016,178,50,1233676,83169,136648
+California,Long Beach,Water Supply,March 2016,154,24,1168587,91059,68129
+California,Long Beach,Fire - Other,March 2016,121,41,779515,77307,32092
+California,Long Beach,Financial Administration,March 2016,121,11,843388,83642,22617
+California,Long Beach,Judicial and Legal,March 2016,96,10,768468,96059,36954
+California,Long Beach,Streets and Highways,March 2016,96,7,552075,69009,17577
+California,Long Beach,Solid Waste Management,March 2016,94,24,525335,67064,56110
+California,Long Beach,Airports,March 2016,89,4,552467,74490,10130
+California,Long Beach,Local Libraries,March 2016,74,90,429507,69650,113276
+California,Long Beach,Housing and Community Development (Local),March 2016,66,0,398890,72525,0
+California,Long Beach,Sewerage,March 2016,34,1,216531,76423,4015
+California,Long Beach,Totals for Government,March 2016,NA,918,36613727,90348,1508093
+California,Los Angeles,Police Protection - Officers,March 2016,NA,99,95325292,111448,173618
+California,Los Angeles,Electric Power,March 2016,NA,19,66316086,127144,51170
+California,Los Angeles,Other and Unallocable,March 2016,NA,232,31444945,82066,379905
+California,Los Angeles,Firefighters,March 2016,NA,1,43469735,160701,8224
+California,Los Angeles,Airports,March 2016,NA,224,24987506,92518,729080
+California,Los Angeles,Water Supply,March 2016,NA,30,28948748,114535,19282
+California,Los Angeles,Police - Other,March 2016,NA,1,19050147,84793,3399
+California,Los Angeles,Financial Administration,March 2016,NA,400,19298348,88187,930206
+California,Los Angeles,Solid Waste Management,March 2016,NA,325,18142839,86808,750027
+California,Los Angeles,Other Government Administration,March 2016,NA,NA,19998031,99907,1829144
+California,Los Angeles,Streets and Highways,March 2016,NA,500,16901935,89036,513531
+California,Los Angeles,Parks and Recreation,March 2016,NA,NA,9373094,72147,4627443
+California,Los Angeles,Housing and Community Development (Local),March 2016,NA,84,11394380,96973,165325
+California,Los Angeles,Judicial and Legal,March 2016,901,10,9303693,123912,46139
+California,Los Angeles,Water Transport and Terminals,March 2016,898,136,8021476,107191,405400
+California,Los Angeles,Local Libraries,March 2016,738,616,4463070,72570,975971
+California,Los Angeles,Health,March 2016,300,26,1623986,64959,37729
+California,Los Angeles,Fire - Other,March 2016,296,2,2257591,91524,1980
+California,Los Angeles,Welfare,March 2016,90,238,663714,88495,314883
+California,Los Angeles,Totals for Government,March 2016,NA,NA,430984616,104814,11962456
+California,Sacramento,Police Protection - Officers,March 2016,641,8,7634374,142921,41128
+California,Sacramento,Parks and Recreation,March 2016,556,460,1444653,31180,503117
+California,Sacramento,Firefighters,March 2016,531,0,5781028,130645,0
+California,Sacramento,Streets and Highways,March 2016,521,12,3223329,74242,24587
+California,Sacramento,Water Supply,March 2016,318,5,2167274,81784,6085
+California,Sacramento,Police - Other,March 2016,296,130,1952750,79166,238720
+California,Sacramento,Other Government Administration,March 2016,167,24,1275734,91670,82252
+California,Sacramento,Housing and Community Development (Local),March 2016,151,8,1101691,87552,6986
+California,Sacramento,Sewerage,March 2016,148,0,975650,79107,0
+California,Sacramento,Solid Waste Management,March 2016,148,1,898032,72813,3716
+California,Sacramento,Financial Administration,March 2016,107,0,730677,81945,0
+California,Sacramento,Other and Unallocable,March 2016,84,70,415170,59310,97774
+California,Sacramento,Judicial and Legal,March 2016,43,0,367591,102584,0
+California,Sacramento,Fire - Other,March 2016,36,0,214598,71533,0
+California,Sacramento,Totals for Government,March 2016,NA,718,28182551,90256,1004365
+California,San Diego,Police Protection - Officers,March 2016,NA,9,16736597,107114,25265
+California,San Diego,Other and Unallocable,March 2016,NA,104,8229118,86698,189107
+California,San Diego,Parks and Recreation,March 2016,984,663,4649167,56697,758769
+California,San Diego,Sewerage,March 2016,928,32,5941540,76830,52184
+California,San Diego,Other Government Administration,March 2016,885,70,6073385,82351,102865
+California,San Diego,Firefighters,March 2016,856,1,8925296,125121,458
+California,San Diego,Water Supply,March 2016,698,69,4134091,71073,140129
+California,San Diego,Police - Other,March 2016,489,155,2999762,73614,182249
+California,San Diego,Financial Administration,March 2016,368,8,2528705,82458,24501
+California,San Diego,Solid Waste Management,March 2016,368,10,2069474,67483,13775
+California,San Diego,Judicial and Legal,March 2016,338,21,2569482,91224,77126
+California,San Diego,Streets and Highways,March 2016,337,12,1886791,67185,16131
+California,San Diego,Local Libraries,March 2016,245,365,1321920,64747,693937
+California,San Diego,Fire - Other,March 2016,121,9,807344,80067,17451
+California,San Diego,Airports,March 2016,19,0,117264,74061,0
+California,San Diego,Totals for Government,March 2016,NA,NA,68989936,85791,2293947
+California,San Francisco,Transit,March 2016,NA,265,37751167,85733,517799
+California,San Francisco,Police Protection - Officers,March 2016,NA,42,28288438,136935,176218
+California,San Francisco,Hospitals,March 2016,NA,NA,16014720,84846,9221906
+California,San Francisco,Health,March 2016,NA,627,14969462,88883,3009857
+California,San Francisco,Welfare,March 2016,NA,421,12804271,79120,1525424
+California,San Francisco,Water Supply,March 2016,NA,82,12926449,100400,208868
+California,San Francisco,Judicial and Legal,March 2016,NA,51,13614527,105950,266340
+California,San Francisco,Firefighters,March 2016,NA,5,18787329,147352,45502
+California,San Francisco,Airports,March 2016,NA,59,10448133,83032,177556
+California,San Francisco,Correction,March 2016,NA,92,10716833,86601,229640
+California,San Francisco,Other Government Administration,March 2016,NA,125,8752116,85110,185680
+California,San Francisco,Parks and Recreation,March 2016,NA,496,6748611,71100,858014
+California,San Francisco,Streets and Highways,March 2016,NA,190,7826138,91445,443901
+California,San Francisco,Financial Administration,March 2016,880,52,6746143,91993,163950
+California,San Francisco,Local Libraries,March 2016,501,514,3097018,74180,1137228
+California,San Francisco,Sewerage,March 2016,471,34,3675773,93650,117239
+California,San Francisco,Solid Waste Management,March 2016,415,84,2235040,64628,191389
+California,San Francisco,Other and Unallocable,March 2016,371,59,2988621,96667,124393
+California,San Francisco,Police - Other,March 2016,361,0,2425036,80611,0
+California,San Francisco,Electric Power,March 2016,265,20,2157145,97682,62409
+California,San Francisco,Water Transport and Terminals,March 2016,252,13,2024067,96384,28551
+California,San Francisco,Housing and Community Development (Local),March 2016,191,4,1146026,72002,14095
+California,San Francisco,Fire - Other,March 2016,95,6,853044,107753,32023
+California,San Francisco,Elementary and Secondary - Instruction,March 2016,0,0,0,NA,0
+California,San Francisco,Elementary and Secondary - Other Total,March 2016,0,0,0,NA,0
+California,San Francisco,Totals for Government,March 2016,NA,NA,226996107,94565,18737982
+California,San Jose,Police Protection - Officers,March 2016,997,0,8843481,106441,0
+California,San Jose,Firefighters,March 2016,641,0,4919744,92101,0
+California,San Jose,Streets and Highways,March 2016,383,47,2322423,72765,99988
+California,San Jose,Police - Other,March 2016,299,272,1922855,77171,499623
+California,San Jose,Parks and Recreation,March 2016,232,NA,1780543,92097,1769852
+California,San Jose,Other and Unallocable,March 2016,218,26,1589339,87487,59365
+California,San Jose,Housing and Community Development (Local),March 2016,209,67,1556240,89353,89590
+California,San Jose,Water Supply,March 2016,200,12,1491804,89508,35473
+California,San Jose,Local Libraries,March 2016,180,474,1081692,72113,799982
+California,San Jose,Other Government Administration,March 2016,179,28,1247750,83648,81176
+California,San Jose,Financial Administration,March 2016,173,18,1288041,89344,45047
+California,San Jose,Airports,March 2016,162,0,1138262,84316,0
+California,San Jose,Fire - Other,March 2016,138,12,1263024,109828,26089
+California,San Jose,Judicial and Legal,March 2016,54,14,549515,122114,58059
+California,San Jose,Solid Waste Management,March 2016,52,2,401778,92718,6054
+California,San Jose,Totals for Government,March 2016,NA,NA,31396491,91513,3570298
+Colorado,Denver,Police Protection - Officers,March 2016,NA,0,12369175,99751,0
+Colorado,Denver,Airports,March 2016,NA,32,7128067,74835,30218
+Colorado,Denver,Welfare,March 2016,NA,45,5189150,54767,70180
+Colorado,Denver,Water Supply,March 2016,NA,12,7495087,81765,68623
+Colorado,Denver,Parks and Recreation,March 2016,NA,980,5215670,58439,887548
+Colorado,Denver,Firefighters,March 2016,968,0,8036314,99624,0
+Colorado,Denver,Correction,March 2016,779,0,5954143,91720,0
+Colorado,Denver,Financial Administration,March 2016,699,32,4527577,77727,73364
+Colorado,Denver,Police - Other,March 2016,659,59,3565826,64932,98950
+Colorado,Denver,Judicial and Legal,March 2016,634,41,4559690,86303,160638
+Colorado,Denver,Other and Unallocable,March 2016,494,25,2759128,67023,53902
+Colorado,Denver,Streets and Highways,March 2016,440,19,2279237,62161,60032
+Colorado,Denver,Local Libraries,March 2016,411,298,1737054,50717,431564
+Colorado,Denver,Other Government Administration,March 2016,318,55,1979698,74706,92889
+Colorado,Denver,Sewerage,March 2016,258,8,1487449,69184,23254
+Colorado,Denver,Housing and Community Development (Local),March 2016,248,10,1685915,81577,30234
+Colorado,Denver,Health,March 2016,185,23,1235715,80154,25440
+Colorado,Denver,Solid Waste Management,March 2016,172,25,760266,53042,62080
+Colorado,Denver,Hospitals,March 2016,126,9,975260,92882,64394
+Colorado,Denver,Fire - Other,March 2016,32,0,198143,74304,0
+Colorado,Denver,Totals for Government,March 2016,NA,NA,79138564,76821,2233310
+Florida,Jacksonville,Police Protection - Officers,March 2016,NA,0,7738774,58627,0
+Florida,Jacksonville,Electric Power,March 2016,NA,2,10450124,85482,2896
+Florida,Jacksonville,Firefighters,March 2016,NA,0,5808136,57649,0
+Florida,Jacksonville,Correction,March 2016,820,0,3108762,45494,0
+Florida,Jacksonville,Financial Administration,March 2016,659,2,2603402,47406,5592
+Florida,Jacksonville,Other and Unallocable,March 2016,596,0,2215946,44616,0
+Florida,Jacksonville,Other Government Administration,March 2016,544,0,1964576,43336,0
+Florida,Jacksonville,Police - Other,March 2016,539,0,2083840,46393,0
+Florida,Jacksonville,Water Supply,March 2016,478,0,3224171,80942,0
+Florida,Jacksonville,Local Libraries,March 2016,300,0,878248,35130,0
+Florida,Jacksonville,Airports,March 2016,272,2,1446821,63830,6319
+Florida,Jacksonville,Parks and Recreation,March 2016,207,0,560502,32493,0
+Florida,Jacksonville,Sewerage,March 2016,191,0,510552,32077,0
+Florida,Jacksonville,Solid Waste Management,March 2016,170,0,488626,34491,0
+Florida,Jacksonville,Water Transport and Terminals,March 2016,151,3,1022993,81297,3432
+Florida,Jacksonville,Welfare,March 2016,134,0,389619,34891,0
+Florida,Jacksonville,Health,March 2016,115,0,306366,31969,0
+Florida,Jacksonville,Judicial and Legal,March 2016,96,0,618640,77330,0
+Florida,Jacksonville,Fire - Other,March 2016,86,0,342140,47740,0
+Florida,Jacksonville,Housing and Community Development (Local),March 2016,28,0,70944,30405,0
+Florida,Jacksonville,Streets and Highways,March 2016,17,0,92551,65330,0
+Florida,Jacksonville,Natural Resources,March 2016,4,0,10454,31362,0
+Florida,Jacksonville,Totals for Government,March 2016,NA,9,45936187,57022,18239
+Georgia,Atlanta,Police Protection - Officers,March 2016,NA,0,9050545,57071,0
+Georgia,Atlanta,Sewerage,March 2016,NA,0,5398260,57479,0
+Georgia,Atlanta,Firefighters,March 2016,927,0,4075395,52756,0
+Georgia,Atlanta,Other Government Administration,March 2016,561,55,2823290,60391,166029
+Georgia,Atlanta,Airports,March 2016,551,0,3020412,65780,0
+Georgia,Atlanta,Solid Waste Management,March 2016,535,0,1977078,44346,0
+Georgia,Atlanta,Parks and Recreation,March 2016,436,25,1430462,39371,55756
+Georgia,Atlanta,Police - Other,March 2016,420,0,1972694,56363,0
+Georgia,Atlanta,Judicial and Legal,March 2016,345,4,1816241,63174,12991
+Georgia,Atlanta,Correction,March 2016,331,0,1192238,43223,0
+Georgia,Atlanta,Financial Administration,March 2016,287,3,1748923,73126,5301
+Georgia,Atlanta,Streets and Highways,March 2016,228,1,1209620,63664,2538
+Georgia,Atlanta,Water Supply,March 2016,201,0,987266,58941,0
+Georgia,Atlanta,Housing and Community Development (Local),March 2016,147,2,695835,56803,3981
+Georgia,Atlanta,Fire - Other,March 2016,102,0,512691,60317,0
+Georgia,Atlanta,Other and Unallocable,March 2016,92,4,403899,52682,4964
+Georgia,Atlanta,Welfare,March 2016,0,0,0,NA,0
+Georgia,Atlanta,Totals for Government,March 2016,NA,94,38314849,56118,251560
+Illinois,Chicago,Police Protection - Officers,March 2016,NA,0,86416072,87650,0
+Illinois,Chicago,Firefighters,March 2016,NA,0,23629321,96348,0
+Illinois,Chicago,Other and Unallocable,March 2016,NA,0,16843507,75447,0
+Illinois,Chicago,Solid Waste Management,March 2016,NA,0,13119084,73223,0
+Illinois,Chicago,Fire - Other,March 2016,NA,0,16964129,110157,0
+Illinois,Chicago,Water Supply,March 2016,NA,0,13924454,90910,0
+Illinois,Chicago,Airports,March 2016,NA,0,9903226,78235,0
+Illinois,Chicago,Streets and Highways,March 2016,NA,0,8075141,90393,0
+Illinois,Chicago,Local Libraries,March 2016,960,0,4785485,59819,0
+Illinois,Chicago,Other Government Administration,March 2016,943,0,5787142,73643,0
+Illinois,Chicago,Financial Administration,March 2016,739,0,4975565,80794,0
+Illinois,Chicago,Police - Other,March 2016,716,756,4884610,81865,1244278
+Illinois,Chicago,Welfare,March 2016,681,0,2531833,44614,0
+Illinois,Chicago,Health,March 2016,595,0,4217805,85065,0
+Illinois,Chicago,Judicial and Legal,March 2016,471,0,3148994,80229,0
+Illinois,Chicago,Housing and Community Development (Local),March 2016,208,0,1584026,91386,0
+Illinois,Chicago,Totals for Government,March 2016,NA,756,220790394,84938,1244278
+Indiana,Indianapolis,Hospitals,March 2016,NA,956,16950703,57869,2864624
+Indiana,Indianapolis,Police Protection - Officers,March 2016,NA,0,7095230,68942,0
+Indiana,Indianapolis,Judicial and Legal,March 2016,NA,39,3829022,38131,48366
+Indiana,Indianapolis,Firefighters,March 2016,NA,0,6911177,72054,0
+Indiana,Indianapolis,Gas Supply,March 2016,934,161,5896554,75759,284063
+Indiana,Indianapolis,Health,March 2016,754,61,3257908,51850,192904
+Indiana,Indianapolis,Correction,March 2016,711,5,2365671,39927,5126
+Indiana,Indianapolis,Police - Other,March 2016,643,58,1952073,36431,33712
+Indiana,Indianapolis,Transit,March 2016,522,6,2240735,51511,12134
+Indiana,Indianapolis,Other Government Administration,March 2016,427,27,1198584,33684,44522
+Indiana,Indianapolis,Welfare,March 2016,396,0,1061115,32155,0
+Indiana,Indianapolis,Other and Unallocable,March 2016,296,0,1280335,51905,0
+Indiana,Indianapolis,Streets and Highways,March 2016,296,0,1084998,43986,0
+Indiana,Indianapolis,Parks and Recreation,March 2016,265,515,1133285,51319,580282
+Indiana,Indianapolis,Fire - Other,March 2016,228,2,736362,38756,5336
+Indiana,Indianapolis,Financial Administration,March 2016,103,0,243996,28427,0
+Indiana,Indianapolis,Solid Waste Management,March 2016,98,0,350177,42879,0
+Indiana,Indianapolis,Housing and Community Development (Local),March 2016,64,0,266048,49884,0
+Indiana,Indianapolis,Sewerage,March 2016,32,0,117559,44085,0
+Indiana,Indianapolis,Natural Resources,March 2016,20,0,79626,47776,0
+Indiana,Indianapolis,Totals for Government,March 2016,NA,NA,58051158,54022,4071069
+Massachusetts,Boston,Elementary and Secondary - Instruction,March 2016,NA,NA,46218901,83028,4029703
+Massachusetts,Boston,Elementary and Secondary - Other Total,March 2016,NA,52,11127716,47724,99911
+Massachusetts,Boston,Police Protection - Officers,March 2016,NA,0,24380775,134268,0
+Massachusetts,Boston,Firefighters,March 2016,NA,0,13573817,110058,0
+Massachusetts,Boston,Health,March 2016,NA,197,6516665,66497,269731
+Massachusetts,Boston,Police - Other,March 2016,540,182,3114974,69222,204443
+Massachusetts,Boston,Streets and Highways,March 2016,498,0,2698337,65020,0
+Massachusetts,Boston,Other and Unallocable,March 2016,498,452,2967222,71499,154718
+Massachusetts,Boston,Welfare,March 2016,463,62,2178902,56473,53622
+Massachusetts,Boston,Local Libraries,March 2016,407,50,2142948,63183,28684
+Massachusetts,Boston,Financial Administration,March 2016,354,4,2600920,88167,16944
+Massachusetts,Boston,Other Government Administration,March 2016,315,24,1869528,71220,31177
+Massachusetts,Boston,Sewerage,March 2016,272,0,1545588,68188,0
+Massachusetts,Boston,Housing and Community Development (Local),March 2016,230,1,1641790,85659,7276
+Massachusetts,Boston,Water Supply,March 2016,219,0,1264573,69292,0
+Massachusetts,Boston,Solid Waste Management,March 2016,208,0,882001,50885,0
+Massachusetts,Boston,Parks and Recreation,March 2016,164,0,787568,57627,0
+Massachusetts,Boston,Fire - Other,March 2016,160,0,1057586,79319,0
+Massachusetts,Boston,Judicial and Legal,March 2016,45,0,284735,75929,0
+Massachusetts,Boston,Totals for Government,March 2016,NA,NA,126854546,81465,4896209
+Maryland,Baltimore,Elementary and Secondary - Instruction,March 2016,NA,NA,57492656,68627,970526
+Maryland,Baltimore,Police Protection - Officers,March 2016,NA,0,22865283,97889,0
+Maryland,Baltimore,Firefighters,March 2016,NA,1,10428030,81682,1785
+Maryland,Baltimore,Water Supply,March 2016,NA,1,6441659,51158,1567
+Maryland,Baltimore,Elementary and Secondary - Other Total,March 2016,NA,153,3780652,33457,139572
+Maryland,Baltimore,Streets and Highways,March 2016,NA,22,4043547,48426,53530
+Maryland,Baltimore,Health,March 2016,813,5,3021070,44591,12216
+Maryland,Baltimore,Police - Other,March 2016,685,413,2437151,42695,363306
+Maryland,Baltimore,Other and Unallocable,March 2016,670,93,3041307,54471,90034
+Maryland,Baltimore,Financial Administration,March 2016,631,0,2974462,56567,0
+Maryland,Baltimore,Judicial and Legal,March 2016,621,9,3495365,67543,32794
+Maryland,Baltimore,Parks and Recreation,March 2016,607,83,1397686,27631,93058
+Maryland,Baltimore,Solid Waste Management,March 2016,575,17,2038543,42544,6628
+Maryland,Baltimore,Other Government Administration,March 2016,433,53,2191796,60743,77807
+Maryland,Baltimore,Housing and Community Development (Local),March 2016,368,4,1725912,56280,17763
+Maryland,Baltimore,Local Libraries,March 2016,361,79,1510874,50223,62901
+Maryland,Baltimore,Sewerage,March 2016,343,0,1036466,36261,0
+Maryland,Baltimore,Welfare,March 2016,272,0,1238935,54659,0
+Maryland,Baltimore,Fire - Other,March 2016,87,0,452985,62481,0
+Maryland,Baltimore,Totals for Government,March 2016,NA,NA,131614379,63883,1923487
+Michigan,Detroit,Police Protection - Officers,March 2016,NA,0,19545400,83916,0
+Michigan,Detroit,Water Supply,March 2016,NA,0,4332176,38970,0
+Michigan,Detroit,Transit,March 2016,NA,0,3137473,31665,0
+Michigan,Detroit,Firefighters,March 2016,981,0,4627395,56604,0
+Michigan,Detroit,Sewerage,March 2016,667,0,3199879,57569,0
+Michigan,Detroit,Judicial and Legal,March 2016,617,0,3292906,64044,0
+Michigan,Detroit,Other and Unallocable,March 2016,556,0,3087631,66640,0
+Michigan,Detroit,Other Government Administration,March 2016,447,11,2675648,71829,20230
+Michigan,Detroit,Streets and Highways,March 2016,396,0,1624801,49236,0
+Michigan,Detroit,Police - Other,March 2016,393,0,2105488,64290,0
+Michigan,Detroit,Solid Waste Management,March 2016,368,0,2046017,66718,0
+Michigan,Detroit,Local Libraries,March 2016,336,146,1121599,40057,197611
+Michigan,Detroit,Health,March 2016,297,0,1080326,43650,0
+Michigan,Detroit,Financial Administration,March 2016,295,0,2057319,83688,0
+Michigan,Detroit,Fire - Other,March 2016,266,0,990560,44687,0
+Michigan,Detroit,Welfare,March 2016,235,0,1229265,62771,0
+Michigan,Detroit,Parks and Recreation,March 2016,157,142,579250,44274,159135
+Michigan,Detroit,Housing and Community Development (Local),March 2016,118,0,555510,56493,0
+Michigan,Detroit,Electric Power,March 2016,112,0,427186,45770,0
+Michigan,Detroit,Airports,March 2016,7,0,25514,43738,0
+Michigan,Detroit,Natural Resources,March 2016,0,0,0,NA,0
+Michigan,Detroit,Totals for Government,March 2016,NA,299,57741343,59908,376976
+Missouri,Kansas City,Police Protection - Officers,March 2016,NA,0,3871776,34881,0
+Missouri,Kansas City,Fire - Other,March 2016,653,0,2517189,46258,0
+Missouri,Kansas City,Water Supply,March 2016,640,0,1656217,31054,0
+Missouri,Kansas City,Firefighters,March 2016,602,4,2026306,40391,7478
+Missouri,Kansas City,Police - Other,March 2016,562,0,1104696,23588,0
+Missouri,Kansas City,Airports,March 2016,430,6,1088751,30384,6997
+Missouri,Kansas City,Other Government Administration,March 2016,421,6,1476072,42073,8558
+Missouri,Kansas City,Parks and Recreation,March 2016,380,46,933264,29471,53816
+Missouri,Kansas City,Streets and Highways,March 2016,333,1,872716,31449,1864
+Missouri,Kansas City,Sewerage,March 2016,220,0,665659,36309,0
+Missouri,Kansas City,Welfare,March 2016,165,0,445911,32430,0
+Missouri,Kansas City,Health,March 2016,158,0,445164,33810,0
+Missouri,Kansas City,Financial Administration,March 2016,98,0,330865,40514,0
+Missouri,Kansas City,Housing and Community Development (Local),March 2016,85,0,293344,41413,0
+Missouri,Kansas City,Judicial and Legal,March 2016,73,1,209607,34456,4553
+Missouri,Kansas City,Other and Unallocable,March 2016,49,0,158543,38827,0
+Missouri,Kansas City,Solid Waste Management,March 2016,42,0,100132,28609,0
+Missouri,Kansas City,Totals for Government,March 2016,NA,64,18196212,34976,83266
+North Carolina,Charlotte,Police Protection - Officers,March 2016,NA,24,9416954,65509,70405
+North Carolina,Charlotte,Firefighters,March 2016,NA,0,6154381,66414,0
+North Carolina,Charlotte,Water Supply,March 2016,770,9,3541210,55188,28392
+North Carolina,Charlotte,Police - Other,March 2016,585,34,2118890,43464,101645
+North Carolina,Charlotte,Airports,March 2016,475,70,2277499,57537,141550
+North Carolina,Charlotte,Other and Unallocable,March 2016,423,11,2256897,64025,33298
+North Carolina,Charlotte,Streets and Highways,March 2016,403,4,1725584,51382,11412
+North Carolina,Charlotte,Transit,March 2016,372,28,1763537,56888,79276
+North Carolina,Charlotte,Financial Administration,March 2016,281,6,1859429,79406,25974
+North Carolina,Charlotte,Other Government Administration,March 2016,272,20,1439215,63495,48015
+North Carolina,Charlotte,Solid Waste Management,March 2016,248,0,990782,47941,0
+North Carolina,Charlotte,Parks and Recreation,March 2016,227,454,1226511,64838,411441
+North Carolina,Charlotte,Housing and Community Development (Local),March 2016,116,2,592530,61296,5536
+North Carolina,Charlotte,Sewerage,March 2016,114,6,682124,71803,19348
+North Carolina,Charlotte,Health,March 2016,70,0,234015,40117,0
+North Carolina,Charlotte,Judicial and Legal,March 2016,45,5,373891,99704,13171
+North Carolina,Charlotte,Fire - Other,March 2016,37,0,224453,72796,0
+North Carolina,Charlotte,Totals for Government,March 2016,NA,673,36877902,60830,989463
+New Mexico,Albuquerque,Police Protection - Officers,March 2016,NA,0,8811583,97906,0
+New Mexico,Albuquerque,Firefighters,March 2016,695,0,5228823,90282,0
+New Mexico,Albuquerque,Transit,March 2016,517,0,2243944,52084,0
+New Mexico,Albuquerque,Streets and Highways,March 2016,436,8,2303972,63412,23109
+New Mexico,Albuquerque,Solid Waste Management,March 2016,389,0,1979494,61064,0
+New Mexico,Albuquerque,Police - Other,March 2016,375,167,2380151,76165,189401
+New Mexico,Albuquerque,Sewerage,March 2016,351,7,1627155,55629,12942
+New Mexico,Albuquerque,Welfare,March 2016,341,378,1609596,56643,336280
+New Mexico,Albuquerque,Other Government Administration,March 2016,288,5,1935595,80650,4390
+New Mexico,Albuquerque,Financial Administration,March 2016,270,6,1707472,75888,22448
+New Mexico,Albuquerque,Parks and Recreation,March 2016,261,369,1243126,57155,281034
+New Mexico,Albuquerque,Other and Unallocable,March 2016,261,12,1333797,61324,18871
+New Mexico,Albuquerque,Airports,March 2016,258,11,1351503,62861,25767
+New Mexico,Albuquerque,Water Supply,March 2016,196,1,936761,57353,796
+New Mexico,Albuquerque,Health,March 2016,180,0,1009536,67302,0
+New Mexico,Albuquerque,Local Libraries,March 2016,122,27,552808,54375,33043
+New Mexico,Albuquerque,Housing and Community Development (Local),March 2016,83,17,411830,59542,33239
+New Mexico,Albuquerque,Judicial and Legal,March 2016,57,3,418866,88182,3156
+New Mexico,Albuquerque,Fire - Other,March 2016,33,0,215721,78444,0
+New Mexico,Albuquerque,Totals for Government,March 2016,NA,NA,37301733,72279,984476
+Nevada,Las Vegas,Firefighters,March 2016,590,0,5899428,119988,0
+Nevada,Las Vegas,Other and Unallocable,March 2016,286,3,1828420,76717,8002
+Nevada,Las Vegas,Correction,March 2016,284,0,2181900,92193,0
+Nevada,Las Vegas,Parks and Recreation,March 2016,259,572,1415863,65600,476760
+Nevada,Las Vegas,Judicial and Legal,March 2016,215,4,1436115,80155,6889
+Nevada,Las Vegas,Sewerage,March 2016,185,0,1156431,75012,0
+Nevada,Las Vegas,Other Government Administration,March 2016,180,7,1248319,83221,6499
+Nevada,Las Vegas,Streets and Highways,March 2016,145,1,1105934,91526,1163
+Nevada,Las Vegas,Financial Administration,March 2016,135,3,919385,81723,6528
+Nevada,Las Vegas,Fire - Other,March 2016,102,8,787269,92620,8308
+Nevada,Las Vegas,Housing and Community Development (Local),March 2016,64,7,479814,89965,10449
+Nevada,Las Vegas,Police Protection - Officers,March 2016,56,0,426987,91497,0
+Nevada,Las Vegas,Solid Waste Management,March 2016,34,0,200898,70905,0
+Nevada,Las Vegas,Health,March 2016,14,0,81603,69945,0
+Nevada,Las Vegas,Natural Resources,March 2016,3,0,28766,115064,0
+Nevada,Las Vegas,Welfare,March 2016,2,1,16614,99684,686
+Nevada,Las Vegas,Totals for Government,March 2016,NA,606,19213746,90276,525284
+New York,New York,Elementary and Secondary - Instruction,March 2016,NA,NA,692584070,71770,23683144
+New York,New York,Transit,March 2016,NA,428,351805079,86607,807563
+New York,New York,Police Protection - Officers,March 2016,NA,NA,347706294,87413,3370482
+New York,New York,Hospitals,March 2016,NA,NA,224991176,72253,9369963
+New York,New York,Elementary and Secondary - Other Total,March 2016,NA,NA,108262180,45634,1134236
+New York,New York,Welfare,March 2016,NA,241,112145221,62251,1031545
+New York,New York,Firefighters,March 2016,NA,42,128969158,103148,198714
+New York,New York,Housing and Community Development (Local),March 2016,NA,317,88403488,78355,544090
+New York,New York,Correction,March 2016,NA,120,100239713,97525,498250
+New York,New York,Solid Waste Management,March 2016,NA,167,55743449,68685,460881
+New York,New York,Other and Unallocable,March 2016,NA,NA,51773346,69980,1966954
+New York,New York,Health,March 2016,NA,NA,41071464,72736,4907247
+New York,New York,Streets and Highways,March 2016,NA,274,46387204,83744,389154
+New York,New York,Judicial and Legal,March 2016,NA,207,38275842,78528,667357
+New York,New York,Financial Administration,March 2016,NA,215,30423484,81455,736440
+New York,New York,Higher Education - Other,March 2016,NA,NA,25009389,68084,5335832
+New York,New York,Parks and Recreation,March 2016,NA,NA,22014422,64260,3502497
+New York,New York,Police - Other,March 2016,NA,183,26783163,87455,261261
+New York,New York,Other Government Administration,March 2016,NA,907,19305514,78986,2726986
+New York,New York,Higher Education - Instructional,March 2016,NA,NA,18042053,82857,9454840
+New York,New York,Local Libraries,March 2016,NA,NA,9533302,56354,714010
+New York,New York,Water Supply,March 2016,NA,16,11661793,71399,31959
+New York,New York,Sewerage,March 2016,NA,16,11749432,74129,31018
+New York,New York,Fire - Other,March 2016,NA,5,13067361,103096,20135
+New York,New York,Totals for Government,March 2016,NA,NA,-2147483648,75738,71844558
+Ohio,Columbus,Police Protection - Officers,March 2016,NA,0,14031386,89324,0
+Ohio,Columbus,Firefighters,March 2016,NA,0,11389059,89795,0
+Ohio,Columbus,Other Government Administration,March 2016,521,85,3050602,70263,45822
+Ohio,Columbus,Water Supply,March 2016,500,14,2593704,62249,25994
+Ohio,Columbus,Sewerage,March 2016,459,7,2397680,62684,12745
+Ohio,Columbus,Streets and Highways,March 2016,442,8,2165700,58797,5033
+Ohio,Columbus,Judicial and Legal,March 2016,439,41,1965400,53724,60007
+Ohio,Columbus,Health,March 2016,389,50,1917308,59146,107464
+Ohio,Columbus,Other and Unallocable,March 2016,382,32,1876638,58952,72868
+Ohio,Columbus,Police - Other,March 2016,360,9,1835694,61190,24483
+Ohio,Columbus,Parks and Recreation,March 2016,312,328,1448770,55722,279370
+Ohio,Columbus,Financial Administration,March 2016,303,6,1863598,73806,11778
+Ohio,Columbus,Welfare,March 2016,242,12,1060408,52582,28916
+Ohio,Columbus,Solid Waste Management,March 2016,197,0,813296,49541,0
+Ohio,Columbus,Electric Power,March 2016,95,1,561324,70904,839
+Ohio,Columbus,Correction,March 2016,66,2,264638,48116,5485
+Ohio,Columbus,Fire - Other,March 2016,46,6,217808,56819,7285
+Ohio,Columbus,Housing and Community Development (Local),March 2016,25,0,139992,67196,0
+Ohio,Columbus,Totals for Government,March 2016,NA,601,49593005,72708,688089
+Oklahoma,Oklahoma City,Police Protection - Officers,March 2016,NA,0,7884261,87847,0
+Oklahoma,Oklahoma City,Firefighters,March 2016,965,0,6076618,75564,0
+Oklahoma,Oklahoma City,Water Supply,March 2016,507,17,2246123,53163,21098
+Oklahoma,Oklahoma City,Streets and Highways,March 2016,368,9,1701041,55469,12686
+Oklahoma,Oklahoma City,Other Government Administration,March 2016,302,15,2034781,80852,21651
+Oklahoma,Oklahoma City,Police - Other,March 2016,247,134,1428267,69389,113879
+Oklahoma,Oklahoma City,Health,March 2016,190,24,887054,56024,35790
+Oklahoma,Oklahoma City,Parks and Recreation,March 2016,176,145,733748,50028,127558
+Oklahoma,Oklahoma City,Airports,March 2016,113,5,587530,62393,8326
+Oklahoma,Oklahoma City,Sewerage,March 2016,111,1,454254,49109,1794
+Oklahoma,Oklahoma City,Solid Waste Management,March 2016,111,6,468693,50670,6599
+Oklahoma,Oklahoma City,Financial Administration,March 2016,86,2,486005,67815,4475
+Oklahoma,Oklahoma City,Housing and Community Development (Local),March 2016,72,3,367501,61250,3082
+Oklahoma,Oklahoma City,Judicial and Legal,March 2016,64,3,270223,50667,3463
+Oklahoma,Oklahoma City,Correction,March 2016,31,0,154482,59799,0
+Oklahoma,Oklahoma City,Fire - Other,March 2016,29,0,219927,91004,0
+Oklahoma,Oklahoma City,Transit,March 2016,26,0,143220,66102,0
+Oklahoma,Oklahoma City,Totals for Government,March 2016,NA,364,26143728,70106,360401
+Oregon,Portland,Police Protection - Officers,March 2016,911,1,7240123,95369,5496
+Oregon,Portland,Streets and Highways,March 2016,702,24,4182467,71495,79818
+Oregon,Portland,Firefighters,March 2016,678,2,5932151,104994,8755
+Oregon,Portland,Parks and Recreation,March 2016,675,NA,2713687,48243,704054
+Oregon,Portland,Other Government Administration,March 2016,559,43,3698258,79390,143610
+Oregon,Portland,Water Supply,March 2016,546,26,3448788,75798,66962
+Oregon,Portland,Sewerage,March 2016,518,26,3714478,86050,65857
+Oregon,Portland,Financial Administration,March 2016,488,26,3580522,88046,70113
+Oregon,Portland,Police - Other,March 2016,385,9,2261942,70502,23097
+Oregon,Portland,Other and Unallocable,March 2016,193,18,1114463,69293,30601
+Oregon,Portland,Judicial and Legal,March 2016,64,4,541672,101564,28972
+Oregon,Portland,Fire - Other,March 2016,60,4,413615,82723,16031
+Oregon,Portland,Housing and Community Development (Local),March 2016,57,4,376628,79290,11479
+Oregon,Portland,Solid Waste Management,March 2016,35,0,188121,64499,0
+Oregon,Portland,Totals for Government,March 2016,NA,NA,39406915,80546,1254845
+Pennsylvania,Philadelphia,Police Protection - Officers,March 2016,NA,0,46246336,87657,0
+Pennsylvania,Philadelphia,Judicial and Legal,March 2016,NA,8,14103669,52236,22048
+Pennsylvania,Philadelphia,Correction,March 2016,NA,0,13374875,61494,0
+Pennsylvania,Philadelphia,Firefighters,March 2016,NA,0,17404368,85701,0
+Pennsylvania,Philadelphia,Gas Supply,March 2016,NA,14,8309116,61854,52634
+Pennsylvania,Philadelphia,Financial Administration,March 2016,NA,25,7732022,58355,20544
+Pennsylvania,Philadelphia,Welfare,March 2016,NA,0,8556611,65318,0
+Pennsylvania,Philadelphia,Health,March 2016,NA,70,7696363,65131,179570
+Pennsylvania,Philadelphia,Other Government Administration,March 2016,NA,26,6505835,59234,34182
+Pennsylvania,Philadelphia,Water Supply,March 2016,NA,0,6255512,56998,0
+Pennsylvania,Philadelphia,Solid Waste Management,March 2016,NA,0,4223026,44453,0
+Pennsylvania,Philadelphia,Police - Other,March 2016,793,856,3403393,51502,1053136
+Pennsylvania,Philadelphia,Airports,March 2016,729,0,3441153,56644,0
+Pennsylvania,Philadelphia,Sewerage,March 2016,701,0,2904182,49715,0
+Pennsylvania,Philadelphia,Local Libraries,March 2016,653,37,2959121,54379,54578
+Pennsylvania,Philadelphia,Other and Unallocable,March 2016,621,2,3064281,59213,3946
+Pennsylvania,Philadelphia,Parks and Recreation,March 2016,611,89,3446159,67682,170321
+Pennsylvania,Philadelphia,Streets and Highways,March 2016,529,0,2364038,53627,0
+Pennsylvania,Philadelphia,Housing and Community Development (Local),March 2016,236,32,1098815,55872,58513
+Pennsylvania,Philadelphia,Fire - Other,March 2016,113,0,478826,50849,0
+Pennsylvania,Philadelphia,Natural Resources,March 2016,0,2,0,NA,2394
+Pennsylvania,Philadelphia,Totals for Government,March 2016,NA,NA,163567701,66376,1651866
+Tennessee,Memphis,Police Protection - Officers,March 2016,NA,0,10049494,56723,0
+Tennessee,Memphis,Firefighters,March 2016,NA,0,7557622,55503,0
+Tennessee,Memphis,Electric Power,March 2016,NA,28,10150177,76750,69974
+Tennessee,Memphis,Gas Supply,March 2016,614,34,3929103,76790,72846
+Tennessee,Memphis,Solid Waste Management,March 2016,561,108,1849746,39567,174220
+Tennessee,Memphis,Transit,March 2016,492,0,1894506,46207,0
+Tennessee,Memphis,Police - Other,March 2016,347,292,1298597,44908,535879
+Tennessee,Memphis,Water Supply,March 2016,332,30,2291972,82842,72846
+Tennessee,Memphis,Parks and Recreation,March 2016,253,594,722218,34255,970048
+Tennessee,Memphis,Other and Unallocable,March 2016,253,8,944385,44793,10983
+Tennessee,Memphis,Local Libraries,March 2016,250,21,728312,34959,35154
+Tennessee,Memphis,Other Government Administration,March 2016,216,207,1129049,62725,360767
+Tennessee,Memphis,Streets and Highways,March 2016,210,42,844335,48248,43294
+Tennessee,Memphis,Sewerage,March 2016,190,25,744656,47031,39184
+Tennessee,Memphis,Fire - Other,March 2016,141,8,641390,54586,18848
+Tennessee,Memphis,Housing and Community Development (Local),March 2016,131,6,375596,34406,10029
+Tennessee,Memphis,Financial Administration,March 2016,75,13,361370,57819,16984
+Tennessee,Memphis,Judicial and Legal,March 2016,60,1,347355,69471,1488
+Tennessee,Memphis,Health,March 2016,45,12,149781,39942,17562
+Tennessee,Memphis,Natural Resources,March 2016,16,3,63312,47484,4464
+Tennessee,Memphis,Water Transport and Terminals,March 2016,6,0,29603,59206,0
+Tennessee,Memphis,Totals for Government,March 2016,NA,NA,46102579,57997,2454570
+Texas,Austin,Police Protection - Officers,March 2016,NA,0,16612343,110259,0
+Texas,Austin,Electric Power,March 2016,NA,47,11548663,84143,176363
+Texas,Austin,Parks and Recreation,March 2016,NA,470,4060379,40945,445231
+Texas,Austin,Health,March 2016,NA,33,5734472,64013,66445
+Texas,Austin,Firefighters,March 2016,NA,0,9286636,107775,0
+Texas,Austin,Other Government Administration,March 2016,926,35,5599083,72558,79941
+Texas,Austin,Streets and Highways,March 2016,696,16,2528208,43590,23846
+Texas,Austin,Other and Unallocable,March 2016,601,31,2999324,59887,73881
+Texas,Austin,Police - Other,March 2016,580,10,2462476,50948,15285
+Texas,Austin,Water Supply,March 2016,578,1,3027188,62848,1366
+Texas,Austin,Sewerage,March 2016,526,3,2920666,66631,9354
+Texas,Austin,Financial Administration,March 2016,461,22,3131816,81522,53264
+Texas,Austin,Solid Waste Management,March 2016,411,10,1920961,56086,18615
+Texas,Austin,Airports,March 2016,384,3,1877906,58685,3252
+Texas,Austin,Local Libraries,March 2016,368,56,1473370,48045,80183
+Texas,Austin,Natural Resources,March 2016,329,19,1757765,64113,17666
+Texas,Austin,Judicial and Legal,March 2016,255,16,1320885,62159,44161
+Texas,Austin,Fire - Other,March 2016,94,0,531983,67913,0
+Texas,Austin,Housing and Community Development (Local),March 2016,52,2,289924,66906,4319
+Texas,Austin,Totals for Government,March 2016,NA,774,79084048,72917,1113172
+Texas,Dallas,Police Protection - Officers,March 2016,NA,0,22859159,78712,0
+Texas,Dallas,Airports,March 2016,NA,2,12002540,72087,4579
+Texas,Dallas,Firefighters,March 2016,NA,0,12330870,77028,0
+Texas,Dallas,Water Supply,March 2016,NA,0,5511871,52661,0
+Texas,Dallas,Parks and Recreation,March 2016,851,237,3423195,48271,221001
+Texas,Dallas,Other and Unallocable,March 2016,701,7,3460811,59244,11142
+Texas,Dallas,Streets and Highways,March 2016,656,0,2946902,53907,0
+Texas,Dallas,Police - Other,March 2016,560,1,2333735,50009,992
+Texas,Dallas,Solid Waste Management,March 2016,494,1,2047831,49745,1384
+Texas,Dallas,Other Government Administration,March 2016,456,9,2539396,66826,22203
+Texas,Dallas,Health,March 2016,409,2,1688765,49548,9637
+Texas,Dallas,Local Libraries,March 2016,401,0,1191822,35665,0
+Texas,Dallas,Judicial and Legal,March 2016,337,14,1807752,64371,31027
+Texas,Dallas,Financial Administration,March 2016,326,1,2143586,78905,5053
+Texas,Dallas,Welfare,March 2016,281,0,1073678,45851,0
+Texas,Dallas,Sewerage,March 2016,228,0,1131591,59557,0
+Texas,Dallas,Natural Resources,March 2016,152,0,691902,54624,0
+Texas,Dallas,Fire - Other,March 2016,94,1,421768,53843,1063
+Texas,Dallas,Housing and Community Development (Local),March 2016,91,1,449657,59295,2544
+Texas,Dallas,Totals for Government,March 2016,NA,276,80056831,65366,310625
+Texas,El Paso,Police Protection - Officers,March 2016,NA,0,5626813,66068,0
+Texas,El Paso,Firefighters,March 2016,849,1,4283506,60544,928
+Texas,El Paso,Other and Unallocable,March 2016,659,2,2533229,46129,1613
+Texas,El Paso,Transit,March 2016,581,0,1592641,32894,0
+Texas,El Paso,Parks and Recreation,March 2016,384,214,1081124,33785,178277
+Texas,El Paso,Health,March 2016,374,8,1144577,36724,31992
+Texas,El Paso,Solid Waste Management,March 2016,351,2,887318,30336,1537
+Texas,El Paso,Airports,March 2016,264,0,916558,41662,0
+Texas,El Paso,Sewerage,March 2016,231,0,690256,35857,0
+Texas,El Paso,Police - Other,March 2016,216,0,624747,34708,0
+Texas,El Paso,Streets and Highways,March 2016,214,9,650078,36453,12574
+Texas,El Paso,Other Government Administration,March 2016,192,10,783333,48958,9927
+Texas,El Paso,Water Supply,March 2016,187,0,600741,38550,0
+Texas,El Paso,Financial Administration,March 2016,162,2,720636,53380,3343
+Texas,El Paso,Local Libraries,March 2016,125,23,390397,37478,25178
+Texas,El Paso,Judicial and Legal,March 2016,124,1,505130,48884,3468
+Texas,El Paso,Fire - Other,March 2016,65,1,220839,40770,1026
+Texas,El Paso,Housing and Community Development (Local),March 2016,37,1,153091,49651,636
+Texas,El Paso,Totals for Government,March 2016,NA,274,23405014,46523,270499
+Texas,Fort Worth,Police Protection - Officers,March 2016,NA,1,10926764,80295,860
+Texas,Fort Worth,Firefighters,March 2016,929,0,6770325,87453,0
+Texas,Fort Worth,Water Supply,March 2016,550,0,2291778,50002,0
+Texas,Fort Worth,Police - Other,March 2016,451,191,1604430,42690,80845
+Texas,Fort Worth,Parks and Recreation,March 2016,412,211,1781004,51874,122994
+Texas,Fort Worth,Judicial and Legal,March 2016,366,119,1714059,56199,79387
+Texas,Fort Worth,Other and Unallocable,March 2016,240,14,1006427,50321,16060
+Texas,Fort Worth,Sewerage,March 2016,232,1,896505,46371,50
+Texas,Fort Worth,Other Government Administration,March 2016,223,133,945056,50855,86768
+Texas,Fort Worth,Financial Administration,March 2016,221,1,1252968,68034,1345
+Texas,Fort Worth,Streets and Highways,March 2016,197,3,899475,54790,779
+Texas,Fort Worth,Welfare,March 2016,191,32,655285,41170,39483
+Texas,Fort Worth,Local Libraries,March 2016,184,58,666217,43449,61989
+Texas,Fort Worth,Health,March 2016,162,3,623867,46212,3896
+Texas,Fort Worth,Natural Resources,March 2016,133,2,737581,66549,3216
+Texas,Fort Worth,Fire - Other,March 2016,50,2,204276,49026,649
+Texas,Fort Worth,Solid Waste Management,March 2016,36,0,141926,47309,0
+Texas,Fort Worth,Housing and Community Development (Local),March 2016,20,0,84004,50402,0
+Texas,Fort Worth,Airports,March 2016,20,0,90843,54506,0
+Texas,Fort Worth,Totals for Government,March 2016,NA,771,33292790,63922,498321
+Texas,Houston,Police Protection - Officers,March 2016,NA,0,37051765,85356,0
+Texas,Houston,Firefighters,March 2016,NA,0,21880710,64832,0
+Texas,Houston,Other and Unallocable,March 2016,NA,69,13509306,57609,118531
+Texas,Houston,Police - Other,March 2016,NA,2,4898095,45920,4198
+Texas,Houston,Airports,March 2016,NA,1,5372442,54085,3702
+Texas,Houston,Health,March 2016,NA,57,4795078,52645,122032
+Texas,Houston,Financial Administration,March 2016,794,22,4811110,72712,21268
+Texas,Houston,Streets and Highways,March 2016,784,1,2661031,40730,1448
+Texas,Houston,Parks and Recreation,March 2016,650,148,2272495,41954,168117
+Texas,Houston,Sewerage,March 2016,613,0,2459939,48155,0
+Texas,Houston,Water Supply,March 2016,600,0,2361436,47229,0
+Texas,Houston,Other Government Administration,March 2016,559,18,1667800,35803,20449
+Texas,Houston,Judicial and Legal,March 2016,483,60,2272495,56460,239747
+Texas,Houston,Local Libraries,March 2016,458,63,1672262,43815,78505
+Texas,Houston,Solid Waste Management,March 2016,455,3,1642756,43325,5589
+Texas,Houston,Fire - Other,March 2016,231,22,810400,42099,46041
+Texas,Houston,Housing and Community Development (Local),March 2016,125,18,691183,66354,38267
+Texas,Houston,Totals for Government,March 2016,NA,484,110830303,62177,867894
+Texas,San Antonio,Electric Power,March 2016,NA,0,18727572,80751,0
+Texas,San Antonio,Police Protection - Officers,March 2016,NA,0,15519816,95801,0
+Texas,San Antonio,Firefighters,March 2016,NA,0,12378831,99562,0
+Texas,San Antonio,Water Supply,March 2016,NA,14,6500348,56813,20232
+Texas,San Antonio,Parks and Recreation,March 2016,864,407,3140289,43615,251388
+Texas,San Antonio,Other and Unallocable,March 2016,633,29,2593887,49173,42049
+Texas,San Antonio,Welfare,March 2016,606,113,2320416,45949,175690
+Texas,San Antonio,Police - Other,March 2016,583,213,2070207,42611,193686
+Texas,San Antonio,Financial Administration,March 2016,502,0,2865742,68504,0
+Texas,San Antonio,Solid Waste Management,March 2016,497,9,1823666,44032,16711
+Texas,San Antonio,Sewerage,March 2016,483,3,1554189,38613,6344
+Texas,San Antonio,Streets and Highways,March 2016,474,4,1841688,46625,4486
+Texas,San Antonio,Health,March 2016,415,23,1573753,45506,42957
+Texas,San Antonio,Airports,March 2016,396,30,1740679,52748,46540
+Texas,San Antonio,Other Government Administration,March 2016,395,9,1942520,59013,7385
+Texas,San Antonio,Gas Supply,March 2016,309,0,2080842,80809,0
+Texas,San Antonio,Local Libraries,March 2016,278,182,1068045,46103,189034
+Texas,San Antonio,Judicial and Legal,March 2016,180,12,949709,63314,22112
+Texas,San Antonio,Natural Resources,March 2016,161,0,560841,41802,0
+Texas,San Antonio,Fire - Other,March 2016,127,0,498558,47108,0
+Texas,San Antonio,Housing and Community Development (Local),March 2016,18,0,106961,71307,0
+Texas,San Antonio,Totals for Government,March 2016,NA,NA,81858559,67684,1018614
+Virginia,Virginia Beach,Elementary and Secondary - Instruction,March 2016,NA,NA,29194648,51114,1505838
+Virginia,Virginia Beach,Elementary and Secondary - Other Total,March 2016,NA,NA,7323532,33038,1692512
+Virginia,Virginia Beach,Police Protection - Officers,March 2016,866,52,4397000,60928,65022
+Virginia,Virginia Beach,Parks and Recreation,March 2016,635,820,2317254,43791,522052
+Virginia,Virginia Beach,Health,March 2016,584,90,2497676,51322,170904
+Virginia,Virginia Beach,Correction,March 2016,508,30,2191208,51761,47480
+Virginia,Virginia Beach,Firefighters,March 2016,476,7,2592996,65370,9610
+Virginia,Virginia Beach,Other and Unallocable,March 2016,412,2,1781608,51891,5272
+Virginia,Virginia Beach,Financial Administration,March 2016,383,11,2048880,64195,13822
+Virginia,Virginia Beach,Welfare,March 2016,349,8,1516268,52135,13200
+Virginia,Virginia Beach,Water Supply,March 2016,286,0,1278296,53635,0
+Virginia,Virginia Beach,Sewerage,March 2016,259,0,1077382,49917,0
+Virginia,Virginia Beach,Judicial and Legal,March 2016,235,41,1163870,59432,55992
+Virginia,Virginia Beach,Streets and Highways,March 2016,228,1,1009516,53132,3112
+Virginia,Virginia Beach,Other Government Administration,March 2016,186,14,965462,62288,31834
+Virginia,Virginia Beach,Local Libraries,March 2016,183,91,708640,46468,89242
+Virginia,Virginia Beach,Solid Waste Management,March 2016,152,0,510304,40287,0
+Virginia,Virginia Beach,Housing and Community Development (Local),March 2016,59,0,270270,54970,0
+Virginia,Virginia Beach,Natural Resources,March 2016,27,2,125404,55735,1980
+Virginia,Virginia Beach,Fire - Other,March 2016,20,0,114460,68676,0
+Virginia,Virginia Beach,Police - Other,March 2016,16,1,107884,80913,1954
+Virginia,Virginia Beach,Totals for Government,March 2016,NA,NA,63192558,49311,4229826
+Washington,Seattle,Electric Power,March 2016,NA,210,17209548,117941,1248244
+Washington,Seattle,Police Protection - Officers,March 2016,NA,1,14622516,127801,4411
+Washington,Seattle,Firefighters,March 2016,997,0,9673247,116428,0
+Washington,Seattle,Parks and Recreation,March 2016,933,NA,5404122,69506,1964355
+Washington,Seattle,Financial Administration,March 2016,797,83,6121063,92162,493901
+Washington,Seattle,Water Supply,March 2016,795,110,6026057,90959,477794
+Washington,Seattle,Streets and Highways,March 2016,727,59,5807972,95867,190134
+Washington,Seattle,Police - Other,March 2016,557,27,3548413,76447,117189
+Washington,Seattle,Other and Unallocable,March 2016,438,219,3315616,90839,604212
+Washington,Seattle,Welfare,March 2016,381,112,2507284,78970,270229
+Washington,Seattle,Local Libraries,March 2016,342,340,2029344,71205,1044831
+Washington,Seattle,Judicial and Legal,March 2016,325,45,2255148,83267,182548
+Washington,Seattle,Sewerage,March 2016,308,43,2343042,91287,185772
+Washington,Seattle,Other Government Administration,March 2016,250,46,2104767,101029,291599
+Washington,Seattle,Solid Waste Management,March 2016,191,24,1462480,91884,115956
+Washington,Seattle,Fire - Other,March 2016,87,8,690279,95211,12608
+Washington,Seattle,Housing and Community Development (Local),March 2016,79,10,558525,84839,55054
+Washington,Seattle,Correction,March 2016,39,8,267929,82440,31020
+Washington,Seattle,Totals for Government,March 2016,NA,NA,85947352,99457,7289857
+Wisconsin,Milwaukee,Police Protection - Officers,March 2016,NA,0,12991854,82184,0
+Wisconsin,Milwaukee,Firefighters,March 2016,816,0,5193804,76379,0
+Wisconsin,Milwaukee,Streets and Highways,March 2016,534,15,2563893,57616,36115
+Wisconsin,Milwaukee,Solid Waste Management,March 2016,519,12,2499200,57785,32920
+Wisconsin,Milwaukee,Police - Other,March 2016,410,199,1483399,43417,158102
+Wisconsin,Milwaukee,Other and Unallocable,March 2016,395,46,1842208,55966,58765
+Wisconsin,Milwaukee,Water Supply,March 2016,296,1,1435734,58205,3102
+Wisconsin,Milwaukee,Local Libraries,March 2016,265,54,1022768,46314,67042
+Wisconsin,Milwaukee,Financial Administration,March 2016,262,16,1428544,65429,17300
+Wisconsin,Milwaukee,Health,March 2016,215,4,958874,53519,13195
+Wisconsin,Milwaukee,Other Government Administration,March 2016,169,33,896425,63651,45291
+Wisconsin,Milwaukee,Natural Resources,March 2016,162,0,800482,59295,0
+Wisconsin,Milwaukee,Housing and Community Development (Local),March 2016,101,9,519874,61767,6867
+Wisconsin,Milwaukee,Sewerage,March 2016,89,6,414948,55948,23409
+Wisconsin,Milwaukee,Judicial and Legal,March 2016,85,0,550651,77739,0
+Wisconsin,Milwaukee,Fire - Other,March 2016,70,1,346308,59367,4247
+Wisconsin,Milwaukee,Water Transport and Terminals,March 2016,19,0,100688,63592,0
+Wisconsin,Milwaukee,Totals for Government,March 2016,NA,396,35049654,66719,466355
+Arizona,Mesa,Police Protection - Officers,March 2016,724,0,5210294,86358,0
+Arizona,Mesa,Police - Other,March 2016,463,15,2543010,65910,31768
+Arizona,Mesa,Firefighters,March 2016,413,0,3012943,87543,0
+Arizona,Mesa,Financial Administration,March 2016,333,4,2061119,74275,10354
+Arizona,Mesa,Other and Unallocable,March 2016,236,1,1433670,72898,4692
+Arizona,Mesa,Parks and Recreation,March 2016,203,299,1004836,59399,163532
+Arizona,Mesa,Water Supply,March 2016,157,0,860649,65782,0
+Arizona,Mesa,Streets and Highways,March 2016,152,0,783992,61894,0
+Arizona,Mesa,Solid Waste Management,March 2016,139,2,726948,62758,5527
+Arizona,Mesa,Judicial and Legal,March 2016,137,1,873104,76476,3558
+Arizona,Mesa,Fire - Other,March 2016,123,8,765076,74642,16078
+Arizona,Mesa,Other Government Administration,March 2016,97,7,631570,78132,15192
+Arizona,Mesa,Sewerage,March 2016,91,0,463171,61077,0
+Arizona,Mesa,Gas Supply,March 2016,76,0,490243,77407,0
+Arizona,Mesa,Welfare,March 2016,62,1,370789,71766,2225
+Arizona,Mesa,Local Libraries,March 2016,60,25,287926,57585,26206
+Arizona,Mesa,Electric Power,March 2016,41,0,273905,80167,0
+Arizona,Mesa,Housing and Community Development (Local),March 2016,40,0,197178,59153,0
+Arizona,Mesa,Airports,March 2016,11,0,60357,65844,0
+Arizona,Mesa,Transit,March 2016,3,0,19428,77712,0
+Arizona,Mesa,Totals for Government,March 2016,NA,363,22070208,74373,279132
+Arizona,Phoenix,Police Protection - Officers,March 2016,NA,0,21951673,89144,0
+Arizona,Phoenix,Firefighters,March 2016,NA,0,11853622,87750,0
+Arizona,Phoenix,Police - Other,March 2016,NA,16,4667462,55675,10619
+Arizona,Phoenix,Solid Waste Management,March 2016,993,5,4451840,53799,7191
+Arizona,Phoenix,Water Supply,March 2016,980,14,5072874,62117,18080
+Arizona,Phoenix,Airports,March 2016,779,0,3943822,60752,0
+Arizona,Phoenix,Parks and Recreation,March 2016,633,496,2641659,50079,625041
+Arizona,Phoenix,Streets and Highways,March 2016,587,0,2922825,59751,0
+Arizona,Phoenix,Other Government Administration,March 2016,530,7,3253816,73671,15049
+Arizona,Phoenix,Judicial and Legal,March 2016,457,22,2640843,69344,63526
+Arizona,Phoenix,Housing and Community Development (Local),March 2016,434,2,2221504,61424,3158
+Arizona,Phoenix,Financial Administration,March 2016,419,1,2807928,80418,648
+Arizona,Phoenix,Sewerage,March 2016,332,0,1332646,48168,0
+Arizona,Phoenix,Fire - Other,March 2016,320,35,1668719,62577,54540
+Arizona,Phoenix,Welfare,March 2016,259,42,1310043,60697,60468
+Arizona,Phoenix,Other and Unallocable,March 2016,214,27,1054574,59135,38228
+Arizona,Phoenix,Local Libraries,March 2016,162,325,792196,58681,423408
+Arizona,Phoenix,Transit,March 2016,93,1,555537,71682,2050
+Arizona,Phoenix,Totals for Government,March 2016,NA,993,75143583,70590,1322006
+Arizona,Tucson,Police Protection - Officers,March 2016,930,1,5952374,76805,495
+Arizona,Tucson,Firefighters,March 2016,642,0,3962212,74060,0
+Arizona,Tucson,Water Supply,March 2016,497,7,2324024,56113,17105
+Arizona,Tucson,Police - Other,March 2016,376,22,1943682,62032,51698
+Arizona,Tucson,Parks and Recreation,March 2016,343,440,1300223,45489,345069
+Arizona,Tucson,Other and Unallocable,March 2016,290,3,1305715,54030,2326
+Arizona,Tucson,Streets and Highways,March 2016,265,4,1203055,54478,6809
+Arizona,Tucson,Financial Administration,March 2016,258,5,1308891,60879,5470
+Arizona,Tucson,Judicial and Legal,March 2016,222,6,1062345,57424,17901
+Arizona,Tucson,Airports,March 2016,219,27,1199760,65740,15184
+Arizona,Tucson,Solid Waste Management,March 2016,218,1,885295,48732,5334
+Arizona,Tucson,Housing and Community Development (Local),March 2016,170,2,743794,52503,3978
+Arizona,Tucson,Other Government Administration,March 2016,163,20,833137,61335,47660
+Arizona,Tucson,Fire - Other,March 2016,127,0,557721,52698,0
+Arizona,Tucson,Sewerage,March 2016,3,0,13212,52848,0
+Arizona,Tucson,Totals for Government,March 2016,NA,538,24595440,62491,519029
+California,Fresno,Police Protection - Officers,March 2016,735,0,6210872,101402,0
+California,Fresno,Transit,March 2016,376,12,1732676,55298,24931
+California,Fresno,Firefighters,March 2016,293,0,2985229,122262,0
+California,Fresno,Police - Other,March 2016,254,35,1054543,49821,82033
+California,Fresno,Water Supply,March 2016,246,10,1141947,55705,15053
+California,Fresno,Streets and Highways,March 2016,244,27,1293783,63629,42060
+California,Fresno,Other and Unallocable,March 2016,173,6,854353,59261,15079
+California,Fresno,Solid Waste Management,March 2016,171,2,674682,47346,3016
+California,Fresno,Sewerage,March 2016,162,0,811020,60076,0
+California,Fresno,Financial Administration,March 2016,96,9,542981,67873,13078
+California,Fresno,Airports,March 2016,78,35,393656,60562,78370
+California,Fresno,Other Government Administration,March 2016,72,3,460461,76744,1439
+California,Fresno,Parks and Recreation,March 2016,67,172,290893,52100,152808
+California,Fresno,Fire - Other,March 2016,44,2,226453,61760,2777
+California,Fresno,Judicial and Legal,March 2016,32,0,231435,86788,0
+California,Fresno,Welfare,March 2016,0,0,0,NA,0
+California,Fresno,Housing and Community Development (Local),March 2016,0,0,0,NA,0
+California,Fresno,Totals for Government,March 2016,NA,313,18904984,74551,430644
+California,Long Beach,Police Protection - Officers,March 2016,850,0,8738189,123363,0
+California,Long Beach,Transit,March 2016,696,14,3284547,56630,25433
+California,Long Beach,Water Transport and Terminals,March 2016,498,38,3978908,95877,71079
+California,Long Beach,Other and Unallocable,March 2016,472,37,3464434,88079,82411
+California,Long Beach,Firefighters,March 2016,350,0,4784066,164025,0
+California,Long Beach,Health,March 2016,255,43,1416233,66646,110010
+California,Long Beach,Police - Other,March 2016,243,75,1374201,67862,155589
+California,Long Beach,Parks and Recreation,March 2016,197,445,1071978,65298,555146
+California,Long Beach,Gas Supply,March 2016,179,4,1032732,69233,10877
+California,Long Beach,Other Government Administration,March 2016,178,50,1233676,83169,136648
+California,Long Beach,Water Supply,March 2016,154,24,1168587,91059,68129
+California,Long Beach,Fire - Other,March 2016,121,41,779515,77307,32092
+California,Long Beach,Financial Administration,March 2016,121,11,843388,83642,22617
+California,Long Beach,Judicial and Legal,March 2016,96,10,768468,96059,36954
+California,Long Beach,Streets and Highways,March 2016,96,7,552075,69009,17577
+California,Long Beach,Solid Waste Management,March 2016,94,24,525335,67064,56110
+California,Long Beach,Airports,March 2016,89,4,552467,74490,10130
+California,Long Beach,Local Libraries,March 2016,74,90,429507,69650,113276
+California,Long Beach,Housing and Community Development (Local),March 2016,66,0,398890,72525,0
+California,Long Beach,Sewerage,March 2016,34,1,216531,76423,4015
+California,Long Beach,Totals for Government,March 2016,NA,918,36613727,90348,1508093
+California,Los Angeles,Police Protection - Officers,March 2016,NA,99,95325292,111448,173618
+California,Los Angeles,Electric Power,March 2016,NA,19,66316086,127144,51170
+California,Los Angeles,Other and Unallocable,March 2016,NA,232,31444945,82066,379905
+California,Los Angeles,Firefighters,March 2016,NA,1,43469735,160701,8224
+California,Los Angeles,Airports,March 2016,NA,224,24987506,92518,729080
+California,Los Angeles,Water Supply,March 2016,NA,30,28948748,114535,19282
+California,Los Angeles,Police - Other,March 2016,NA,1,19050147,84793,3399
+California,Los Angeles,Financial Administration,March 2016,NA,400,19298348,88187,930206
+California,Los Angeles,Solid Waste Management,March 2016,NA,325,18142839,86808,750027
+California,Los Angeles,Other Government Administration,March 2016,NA,NA,19998031,99907,1829144
+California,Los Angeles,Streets and Highways,March 2016,NA,500,16901935,89036,513531
+California,Los Angeles,Parks and Recreation,March 2016,NA,NA,9373094,72147,4627443
+California,Los Angeles,Housing and Community Development (Local),March 2016,NA,84,11394380,96973,165325
+California,Los Angeles,Judicial and Legal,March 2016,901,10,9303693,123912,46139
+California,Los Angeles,Water Transport and Terminals,March 2016,898,136,8021476,107191,405400
+California,Los Angeles,Local Libraries,March 2016,738,616,4463070,72570,975971
+California,Los Angeles,Health,March 2016,300,26,1623986,64959,37729
+California,Los Angeles,Fire - Other,March 2016,296,2,2257591,91524,1980
+California,Los Angeles,Welfare,March 2016,90,238,663714,88495,314883
+California,Los Angeles,Totals for Government,March 2016,NA,NA,430984616,104814,11962456
+California,Sacramento,Police Protection - Officers,March 2016,641,8,7634374,142921,41128
+California,Sacramento,Parks and Recreation,March 2016,556,460,1444653,31180,503117
+California,Sacramento,Firefighters,March 2016,531,0,5781028,130645,0
+California,Sacramento,Streets and Highways,March 2016,521,12,3223329,74242,24587
+California,Sacramento,Water Supply,March 2016,318,5,2167274,81784,6085
+California,Sacramento,Police - Other,March 2016,296,130,1952750,79166,238720
+California,Sacramento,Other Government Administration,March 2016,167,24,1275734,91670,82252
+California,Sacramento,Housing and Community Development (Local),March 2016,151,8,1101691,87552,6986
+California,Sacramento,Sewerage,March 2016,148,0,975650,79107,0
+California,Sacramento,Solid Waste Management,March 2016,148,1,898032,72813,3716
+California,Sacramento,Financial Administration,March 2016,107,0,730677,81945,0
+California,Sacramento,Other and Unallocable,March 2016,84,70,415170,59310,97774
+California,Sacramento,Judicial and Legal,March 2016,43,0,367591,102584,0
+California,Sacramento,Fire - Other,March 2016,36,0,214598,71533,0
+California,Sacramento,Totals for Government,March 2016,NA,718,28182551,90256,1004365
+California,San Diego,Police Protection - Officers,March 2016,NA,9,16736597,107114,25265
+California,San Diego,Other and Unallocable,March 2016,NA,104,8229118,86698,189107
+California,San Diego,Parks and Recreation,March 2016,984,663,4649167,56697,758769
+California,San Diego,Sewerage,March 2016,928,32,5941540,76830,52184
+California,San Diego,Other Government Administration,March 2016,885,70,6073385,82351,102865
+California,San Diego,Firefighters,March 2016,856,1,8925296,125121,458
+California,San Diego,Water Supply,March 2016,698,69,4134091,71073,140129
+California,San Diego,Police - Other,March 2016,489,155,2999762,73614,182249
+California,San Diego,Financial Administration,March 2016,368,8,2528705,82458,24501
+California,San Diego,Solid Waste Management,March 2016,368,10,2069474,67483,13775
+California,San Diego,Judicial and Legal,March 2016,338,21,2569482,91224,77126
+California,San Diego,Streets and Highways,March 2016,337,12,1886791,67185,16131
+California,San Diego,Local Libraries,March 2016,245,365,1321920,64747,693937
+California,San Diego,Fire - Other,March 2016,121,9,807344,80067,17451
+California,San Diego,Airports,March 2016,19,0,117264,74061,0
+California,San Diego,Totals for Government,March 2016,NA,NA,68989936,85791,2293947
+California,San Francisco,Transit,March 2016,NA,265,37751167,85733,517799
+California,San Francisco,Police Protection - Officers,March 2016,NA,42,28288438,136935,176218
+California,San Francisco,Hospitals,March 2016,NA,NA,16014720,84846,9221906
+California,San Francisco,Health,March 2016,NA,627,14969462,88883,3009857
+California,San Francisco,Welfare,March 2016,NA,421,12804271,79120,1525424
+California,San Francisco,Water Supply,March 2016,NA,82,12926449,100400,208868
+California,San Francisco,Judicial and Legal,March 2016,NA,51,13614527,105950,266340
+California,San Francisco,Firefighters,March 2016,NA,5,18787329,147352,45502
+California,San Francisco,Airports,March 2016,NA,59,10448133,83032,177556
+California,San Francisco,Correction,March 2016,NA,92,10716833,86601,229640
+California,San Francisco,Other Government Administration,March 2016,NA,125,8752116,85110,185680
+California,San Francisco,Parks and Recreation,March 2016,NA,496,6748611,71100,858014
+California,San Francisco,Streets and Highways,March 2016,NA,190,7826138,91445,443901
+California,San Francisco,Financial Administration,March 2016,880,52,6746143,91993,163950
+California,San Francisco,Local Libraries,March 2016,501,514,3097018,74180,1137228
+California,San Francisco,Sewerage,March 2016,471,34,3675773,93650,117239
+California,San Francisco,Solid Waste Management,March 2016,415,84,2235040,64628,191389
+California,San Francisco,Other and Unallocable,March 2016,371,59,2988621,96667,124393
+California,San Francisco,Police - Other,March 2016,361,0,2425036,80611,0
+California,San Francisco,Electric Power,March 2016,265,20,2157145,97682,62409
+California,San Francisco,Water Transport and Terminals,March 2016,252,13,2024067,96384,28551
+California,San Francisco,Housing and Community Development (Local),March 2016,191,4,1146026,72002,14095
+California,San Francisco,Fire - Other,March 2016,95,6,853044,107753,32023
+California,San Francisco,Elementary and Secondary - Instruction,March 2016,0,0,0,NA,0
+California,San Francisco,Elementary and Secondary - Other Total,March 2016,0,0,0,NA,0
+California,San Francisco,Totals for Government,March 2016,NA,NA,226996107,94565,18737982
+California,San Jose,Police Protection - Officers,March 2016,997,0,8843481,106441,0
+California,San Jose,Firefighters,March 2016,641,0,4919744,92101,0
+California,San Jose,Streets and Highways,March 2016,383,47,2322423,72765,99988
+California,San Jose,Police - Other,March 2016,299,272,1922855,77171,499623
+California,San Jose,Parks and Recreation,March 2016,232,NA,1780543,92097,1769852
+California,San Jose,Other and Unallocable,March 2016,218,26,1589339,87487,59365
+California,San Jose,Housing and Community Development (Local),March 2016,209,67,1556240,89353,89590
+California,San Jose,Water Supply,March 2016,200,12,1491804,89508,35473
+California,San Jose,Local Libraries,March 2016,180,474,1081692,72113,799982
+California,San Jose,Other Government Administration,March 2016,179,28,1247750,83648,81176
+California,San Jose,Financial Administration,March 2016,173,18,1288041,89344,45047
+California,San Jose,Airports,March 2016,162,0,1138262,84316,0
+California,San Jose,Fire - Other,March 2016,138,12,1263024,109828,26089
+California,San Jose,Judicial and Legal,March 2016,54,14,549515,122114,58059
+California,San Jose,Solid Waste Management,March 2016,52,2,401778,92718,6054
+California,San Jose,Totals for Government,March 2016,NA,NA,31396491,91513,3570298
+Colorado,Denver,Police Protection - Officers,March 2016,NA,0,12369175,99751,0
+Colorado,Denver,Airports,March 2016,NA,32,7128067,74835,30218
+Colorado,Denver,Welfare,March 2016,NA,45,5189150,54767,70180
+Colorado,Denver,Water Supply,March 2016,NA,12,7495087,81765,68623
+Colorado,Denver,Parks and Recreation,March 2016,NA,980,5215670,58439,887548
+Colorado,Denver,Firefighters,March 2016,968,0,8036314,99624,0
+Colorado,Denver,Correction,March 2016,779,0,5954143,91720,0
+Colorado,Denver,Financial Administration,March 2016,699,32,4527577,77727,73364
+Colorado,Denver,Police - Other,March 2016,659,59,3565826,64932,98950
+Colorado,Denver,Judicial and Legal,March 2016,634,41,4559690,86303,160638
+Colorado,Denver,Other and Unallocable,March 2016,494,25,2759128,67023,53902
+Colorado,Denver,Streets and Highways,March 2016,440,19,2279237,62161,60032
+Colorado,Denver,Local Libraries,March 2016,411,298,1737054,50717,431564
+Colorado,Denver,Other Government Administration,March 2016,318,55,1979698,74706,92889
+Colorado,Denver,Sewerage,March 2016,258,8,1487449,69184,23254
+Colorado,Denver,Housing and Community Development (Local),March 2016,248,10,1685915,81577,30234
+Colorado,Denver,Health,March 2016,185,23,1235715,80154,25440
+Colorado,Denver,Solid Waste Management,March 2016,172,25,760266,53042,62080
+Colorado,Denver,Hospitals,March 2016,126,9,975260,92882,64394
+Colorado,Denver,Fire - Other,March 2016,32,0,198143,74304,0
+Colorado,Denver,Totals for Government,March 2016,NA,NA,79138564,76821,2233310
+Florida,Jacksonville,Police Protection - Officers,March 2016,NA,0,7738774,58627,0
+Florida,Jacksonville,Electric Power,March 2016,NA,2,10450124,85482,2896
+Florida,Jacksonville,Firefighters,March 2016,NA,0,5808136,57649,0
+Florida,Jacksonville,Correction,March 2016,820,0,3108762,45494,0
+Florida,Jacksonville,Financial Administration,March 2016,659,2,2603402,47406,5592
+Florida,Jacksonville,Other and Unallocable,March 2016,596,0,2215946,44616,0
+Florida,Jacksonville,Other Government Administration,March 2016,544,0,1964576,43336,0
+Florida,Jacksonville,Police - Other,March 2016,539,0,2083840,46393,0
+Florida,Jacksonville,Water Supply,March 2016,478,0,3224171,80942,0
+Florida,Jacksonville,Local Libraries,March 2016,300,0,878248,35130,0
+Florida,Jacksonville,Airports,March 2016,272,2,1446821,63830,6319
+Florida,Jacksonville,Parks and Recreation,March 2016,207,0,560502,32493,0
+Florida,Jacksonville,Sewerage,March 2016,191,0,510552,32077,0
+Florida,Jacksonville,Solid Waste Management,March 2016,170,0,488626,34491,0
+Florida,Jacksonville,Water Transport and Terminals,March 2016,151,3,1022993,81297,3432
+Florida,Jacksonville,Welfare,March 2016,134,0,389619,34891,0
+Florida,Jacksonville,Health,March 2016,115,0,306366,31969,0
+Florida,Jacksonville,Judicial and Legal,March 2016,96,0,618640,77330,0
+Florida,Jacksonville,Fire - Other,March 2016,86,0,342140,47740,0
+Florida,Jacksonville,Housing and Community Development (Local),March 2016,28,0,70944,30405,0
+Florida,Jacksonville,Streets and Highways,March 2016,17,0,92551,65330,0
+Florida,Jacksonville,Natural Resources,March 2016,4,0,10454,31362,0
+Florida,Jacksonville,Totals for Government,March 2016,NA,9,45936187,57022,18239
+Georgia,Atlanta,Police Protection - Officers,March 2016,NA,0,9050545,57071,0
+Georgia,Atlanta,Sewerage,March 2016,NA,0,5398260,57479,0
+Georgia,Atlanta,Firefighters,March 2016,927,0,4075395,52756,0
+Georgia,Atlanta,Other Government Administration,March 2016,561,55,2823290,60391,166029
+Georgia,Atlanta,Airports,March 2016,551,0,3020412,65780,0
+Georgia,Atlanta,Solid Waste Management,March 2016,535,0,1977078,44346,0
+Georgia,Atlanta,Parks and Recreation,March 2016,436,25,1430462,39371,55756
+Georgia,Atlanta,Police - Other,March 2016,420,0,1972694,56363,0
+Georgia,Atlanta,Judicial and Legal,March 2016,345,4,1816241,63174,12991
+Georgia,Atlanta,Correction,March 2016,331,0,1192238,43223,0
+Georgia,Atlanta,Financial Administration,March 2016,287,3,1748923,73126,5301
+Georgia,Atlanta,Streets and Highways,March 2016,228,1,1209620,63664,2538
+Georgia,Atlanta,Water Supply,March 2016,201,0,987266,58941,0
+Georgia,Atlanta,Housing and Community Development (Local),March 2016,147,2,695835,56803,3981
+Georgia,Atlanta,Fire - Other,March 2016,102,0,512691,60317,0
+Georgia,Atlanta,Other and Unallocable,March 2016,92,4,403899,52682,4964
+Georgia,Atlanta,Welfare,March 2016,0,0,0,NA,0
+Georgia,Atlanta,Totals for Government,March 2016,NA,94,38314849,56118,251560
+Illinois,Chicago,Police Protection - Officers,March 2016,NA,0,86416072,87650,0
+Illinois,Chicago,Firefighters,March 2016,NA,0,23629321,96348,0
+Illinois,Chicago,Other and Unallocable,March 2016,NA,0,16843507,75447,0
+Illinois,Chicago,Solid Waste Management,March 2016,NA,0,13119084,73223,0
+Illinois,Chicago,Fire - Other,March 2016,NA,0,16964129,110157,0
+Illinois,Chicago,Water Supply,March 2016,NA,0,13924454,90910,0
+Illinois,Chicago,Airports,March 2016,NA,0,9903226,78235,0
+Illinois,Chicago,Streets and Highways,March 2016,NA,0,8075141,90393,0
+Illinois,Chicago,Local Libraries,March 2016,960,0,4785485,59819,0
+Illinois,Chicago,Other Government Administration,March 2016,943,0,5787142,73643,0
+Illinois,Chicago,Financial Administration,March 2016,739,0,4975565,80794,0
+Illinois,Chicago,Police - Other,March 2016,716,756,4884610,81865,1244278
+Illinois,Chicago,Welfare,March 2016,681,0,2531833,44614,0
+Illinois,Chicago,Health,March 2016,595,0,4217805,85065,0
+Illinois,Chicago,Judicial and Legal,March 2016,471,0,3148994,80229,0
+Illinois,Chicago,Housing and Community Development (Local),March 2016,208,0,1584026,91386,0
+Illinois,Chicago,Totals for Government,March 2016,NA,756,220790394,84938,1244278
+Indiana,Indianapolis,Hospitals,March 2016,NA,956,16950703,57869,2864624
+Indiana,Indianapolis,Police Protection - Officers,March 2016,NA,0,7095230,68942,0
+Indiana,Indianapolis,Judicial and Legal,March 2016,NA,39,3829022,38131,48366
+Indiana,Indianapolis,Firefighters,March 2016,NA,0,6911177,72054,0
+Indiana,Indianapolis,Gas Supply,March 2016,934,161,5896554,75759,284063
+Indiana,Indianapolis,Health,March 2016,754,61,3257908,51850,192904
+Indiana,Indianapolis,Correction,March 2016,711,5,2365671,39927,5126
+Indiana,Indianapolis,Police - Other,March 2016,643,58,1952073,36431,33712
+Indiana,Indianapolis,Transit,March 2016,522,6,2240735,51511,12134
+Indiana,Indianapolis,Other Government Administration,March 2016,427,27,1198584,33684,44522
+Indiana,Indianapolis,Welfare,March 2016,396,0,1061115,32155,0
+Indiana,Indianapolis,Other and Unallocable,March 2016,296,0,1280335,51905,0
+Indiana,Indianapolis,Streets and Highways,March 2016,296,0,1084998,43986,0
+Indiana,Indianapolis,Parks and Recreation,March 2016,265,515,1133285,51319,580282
+Indiana,Indianapolis,Fire - Other,March 2016,228,2,736362,38756,5336
+Indiana,Indianapolis,Financial Administration,March 2016,103,0,243996,28427,0
+Indiana,Indianapolis,Solid Waste Management,March 2016,98,0,350177,42879,0
+Indiana,Indianapolis,Housing and Community Development (Local),March 2016,64,0,266048,49884,0
+Indiana,Indianapolis,Sewerage,March 2016,32,0,117559,44085,0
+Indiana,Indianapolis,Natural Resources,March 2016,20,0,79626,47776,0
+Indiana,Indianapolis,Totals for Government,March 2016,NA,NA,58051158,54022,4071069
+Maryland,Baltimore,Elementary and Secondary - Instruction,March 2016,NA,NA,57492656,68627,970526
+Maryland,Baltimore,Police Protection - Officers,March 2016,NA,0,22865283,97889,0
+Maryland,Baltimore,Firefighters,March 2016,NA,1,10428030,81682,1785
+Maryland,Baltimore,Water Supply,March 2016,NA,1,6441659,51158,1567
+Maryland,Baltimore,Elementary and Secondary - Other Total,March 2016,NA,153,3780652,33457,139572
+Maryland,Baltimore,Streets and Highways,March 2016,NA,22,4043547,48426,53530
+Maryland,Baltimore,Health,March 2016,813,5,3021070,44591,12216
+Maryland,Baltimore,Police - Other,March 2016,685,413,2437151,42695,363306
+Maryland,Baltimore,Other and Unallocable,March 2016,670,93,3041307,54471,90034
+Maryland,Baltimore,Financial Administration,March 2016,631,0,2974462,56567,0
+Maryland,Baltimore,Judicial and Legal,March 2016,621,9,3495365,67543,32794
+Maryland,Baltimore,Parks and Recreation,March 2016,607,83,1397686,27631,93058
+Maryland,Baltimore,Solid Waste Management,March 2016,575,17,2038543,42544,6628
+Maryland,Baltimore,Other Government Administration,March 2016,433,53,2191796,60743,77807
+Maryland,Baltimore,Housing and Community Development (Local),March 2016,368,4,1725912,56280,17763
+Maryland,Baltimore,Local Libraries,March 2016,361,79,1510874,50223,62901
+Maryland,Baltimore,Sewerage,March 2016,343,0,1036466,36261,0
+Maryland,Baltimore,Welfare,March 2016,272,0,1238935,54659,0
+Maryland,Baltimore,Fire - Other,March 2016,87,0,452985,62481,0
+Maryland,Baltimore,Totals for Government,March 2016,NA,NA,131614379,63883,1923487
+Massachusetts,Boston,Elementary and Secondary - Instruction,March 2016,NA,NA,46218901,83028,4029703
+Massachusetts,Boston,Elementary and Secondary - Other Total,March 2016,NA,52,11127716,47724,99911
+Massachusetts,Boston,Police Protection - Officers,March 2016,NA,0,24380775,134268,0
+Massachusetts,Boston,Firefighters,March 2016,NA,0,13573817,110058,0
+Massachusetts,Boston,Health,March 2016,NA,197,6516665,66497,269731
+Massachusetts,Boston,Police - Other,March 2016,540,182,3114974,69222,204443
+Massachusetts,Boston,Streets and Highways,March 2016,498,0,2698337,65020,0
+Massachusetts,Boston,Other and Unallocable,March 2016,498,452,2967222,71499,154718
+Massachusetts,Boston,Welfare,March 2016,463,62,2178902,56473,53622
+Massachusetts,Boston,Local Libraries,March 2016,407,50,2142948,63183,28684
+Massachusetts,Boston,Financial Administration,March 2016,354,4,2600920,88167,16944
+Massachusetts,Boston,Other Government Administration,March 2016,315,24,1869528,71220,31177
+Massachusetts,Boston,Sewerage,March 2016,272,0,1545588,68188,0
+Massachusetts,Boston,Housing and Community Development (Local),March 2016,230,1,1641790,85659,7276
+Massachusetts,Boston,Water Supply,March 2016,219,0,1264573,69292,0
+Massachusetts,Boston,Solid Waste Management,March 2016,208,0,882001,50885,0
+Massachusetts,Boston,Parks and Recreation,March 2016,164,0,787568,57627,0
+Massachusetts,Boston,Fire - Other,March 2016,160,0,1057586,79319,0
+Massachusetts,Boston,Judicial and Legal,March 2016,45,0,284735,75929,0
+Massachusetts,Boston,Totals for Government,March 2016,NA,NA,126854546,81465,4896209
+Michigan,Detroit,Police Protection - Officers,March 2016,NA,0,19545400,83916,0
+Michigan,Detroit,Water Supply,March 2016,NA,0,4332176,38970,0
+Michigan,Detroit,Transit,March 2016,NA,0,3137473,31665,0
+Michigan,Detroit,Firefighters,March 2016,981,0,4627395,56604,0
+Michigan,Detroit,Sewerage,March 2016,667,0,3199879,57569,0
+Michigan,Detroit,Judicial and Legal,March 2016,617,0,3292906,64044,0
+Michigan,Detroit,Other and Unallocable,March 2016,556,0,3087631,66640,0
+Michigan,Detroit,Other Government Administration,March 2016,447,11,2675648,71829,20230
+Michigan,Detroit,Streets and Highways,March 2016,396,0,1624801,49236,0
+Michigan,Detroit,Police - Other,March 2016,393,0,2105488,64290,0
+Michigan,Detroit,Solid Waste Management,March 2016,368,0,2046017,66718,0
+Michigan,Detroit,Local Libraries,March 2016,336,146,1121599,40057,197611
+Michigan,Detroit,Health,March 2016,297,0,1080326,43650,0
+Michigan,Detroit,Financial Administration,March 2016,295,0,2057319,83688,0
+Michigan,Detroit,Fire - Other,March 2016,266,0,990560,44687,0
+Michigan,Detroit,Welfare,March 2016,235,0,1229265,62771,0
+Michigan,Detroit,Parks and Recreation,March 2016,157,142,579250,44274,159135
+Michigan,Detroit,Housing and Community Development (Local),March 2016,118,0,555510,56493,0
+Michigan,Detroit,Electric Power,March 2016,112,0,427186,45770,0
+Michigan,Detroit,Airports,March 2016,7,0,25514,43738,0
+Michigan,Detroit,Natural Resources,March 2016,0,0,0,NA,0
+Michigan,Detroit,Totals for Government,March 2016,NA,299,57741343,59908,376976
+Missouri,Kansas City,Police Protection - Officers,March 2016,NA,0,3871776,34881,0
+Missouri,Kansas City,Fire - Other,March 2016,653,0,2517189,46258,0
+Missouri,Kansas City,Water Supply,March 2016,640,0,1656217,31054,0
+Missouri,Kansas City,Firefighters,March 2016,602,4,2026306,40391,7478
+Missouri,Kansas City,Police - Other,March 2016,562,0,1104696,23588,0
+Missouri,Kansas City,Airports,March 2016,430,6,1088751,30384,6997
+Missouri,Kansas City,Other Government Administration,March 2016,421,6,1476072,42073,8558
+Missouri,Kansas City,Parks and Recreation,March 2016,380,46,933264,29471,53816
+Missouri,Kansas City,Streets and Highways,March 2016,333,1,872716,31449,1864
+Missouri,Kansas City,Sewerage,March 2016,220,0,665659,36309,0
+Missouri,Kansas City,Welfare,March 2016,165,0,445911,32430,0
+Missouri,Kansas City,Health,March 2016,158,0,445164,33810,0
+Missouri,Kansas City,Financial Administration,March 2016,98,0,330865,40514,0
+Missouri,Kansas City,Housing and Community Development (Local),March 2016,85,0,293344,41413,0
+Missouri,Kansas City,Judicial and Legal,March 2016,73,1,209607,34456,4553
+Missouri,Kansas City,Other and Unallocable,March 2016,49,0,158543,38827,0
+Missouri,Kansas City,Solid Waste Management,March 2016,42,0,100132,28609,0
+Missouri,Kansas City,Totals for Government,March 2016,NA,64,18196212,34976,83266
+Nevada,Las Vegas,Firefighters,March 2016,590,0,5899428,119988,0
+Nevada,Las Vegas,Other and Unallocable,March 2016,286,3,1828420,76717,8002
+Nevada,Las Vegas,Correction,March 2016,284,0,2181900,92193,0
+Nevada,Las Vegas,Parks and Recreation,March 2016,259,572,1415863,65600,476760
+Nevada,Las Vegas,Judicial and Legal,March 2016,215,4,1436115,80155,6889
+Nevada,Las Vegas,Sewerage,March 2016,185,0,1156431,75012,0
+Nevada,Las Vegas,Other Government Administration,March 2016,180,7,1248319,83221,6499
+Nevada,Las Vegas,Streets and Highways,March 2016,145,1,1105934,91526,1163
+Nevada,Las Vegas,Financial Administration,March 2016,135,3,919385,81723,6528
+Nevada,Las Vegas,Fire - Other,March 2016,102,8,787269,92620,8308
+Nevada,Las Vegas,Housing and Community Development (Local),March 2016,64,7,479814,89965,10449
+Nevada,Las Vegas,Police Protection - Officers,March 2016,56,0,426987,91497,0
+Nevada,Las Vegas,Solid Waste Management,March 2016,34,0,200898,70905,0
+Nevada,Las Vegas,Health,March 2016,14,0,81603,69945,0
+Nevada,Las Vegas,Natural Resources,March 2016,3,0,28766,115064,0
+Nevada,Las Vegas,Welfare,March 2016,2,1,16614,99684,686
+Nevada,Las Vegas,Totals for Government,March 2016,NA,606,19213746,90276,525284
+New Mexico,Albuquerque,Police Protection - Officers,March 2016,NA,0,8811583,97906,0
+New Mexico,Albuquerque,Firefighters,March 2016,695,0,5228823,90282,0
+New Mexico,Albuquerque,Transit,March 2016,517,0,2243944,52084,0
+New Mexico,Albuquerque,Streets and Highways,March 2016,436,8,2303972,63412,23109
+New Mexico,Albuquerque,Solid Waste Management,March 2016,389,0,1979494,61064,0
+New Mexico,Albuquerque,Police - Other,March 2016,375,167,2380151,76165,189401
+New Mexico,Albuquerque,Sewerage,March 2016,351,7,1627155,55629,12942
+New Mexico,Albuquerque,Welfare,March 2016,341,378,1609596,56643,336280
+New Mexico,Albuquerque,Other Government Administration,March 2016,288,5,1935595,80650,4390
+New Mexico,Albuquerque,Financial Administration,March 2016,270,6,1707472,75888,22448
+New Mexico,Albuquerque,Parks and Recreation,March 2016,261,369,1243126,57155,281034
+New Mexico,Albuquerque,Other and Unallocable,March 2016,261,12,1333797,61324,18871
+New Mexico,Albuquerque,Airports,March 2016,258,11,1351503,62861,25767
+New Mexico,Albuquerque,Water Supply,March 2016,196,1,936761,57353,796
+New Mexico,Albuquerque,Health,March 2016,180,0,1009536,67302,0
+New Mexico,Albuquerque,Local Libraries,March 2016,122,27,552808,54375,33043
+New Mexico,Albuquerque,Housing and Community Development (Local),March 2016,83,17,411830,59542,33239
+New Mexico,Albuquerque,Judicial and Legal,March 2016,57,3,418866,88182,3156
+New Mexico,Albuquerque,Fire - Other,March 2016,33,0,215721,78444,0
+New Mexico,Albuquerque,Totals for Government,March 2016,NA,NA,37301733,72279,984476
+New York,New York,Elementary and Secondary - Instruction,March 2016,NA,NA,692584070,71770,23683144
+New York,New York,Transit,March 2016,NA,428,351805079,86607,807563
+New York,New York,Police Protection - Officers,March 2016,NA,NA,347706294,87413,3370482
+New York,New York,Hospitals,March 2016,NA,NA,224991176,72253,9369963
+New York,New York,Elementary and Secondary - Other Total,March 2016,NA,NA,108262180,45634,1134236
+New York,New York,Welfare,March 2016,NA,241,112145221,62251,1031545
+New York,New York,Firefighters,March 2016,NA,42,128969158,103148,198714
+New York,New York,Housing and Community Development (Local),March 2016,NA,317,88403488,78355,544090
+New York,New York,Correction,March 2016,NA,120,100239713,97525,498250
+New York,New York,Solid Waste Management,March 2016,NA,167,55743449,68685,460881
+New York,New York,Other and Unallocable,March 2016,NA,NA,51773346,69980,1966954
+New York,New York,Health,March 2016,NA,NA,41071464,72736,4907247
+New York,New York,Streets and Highways,March 2016,NA,274,46387204,83744,389154
+New York,New York,Judicial and Legal,March 2016,NA,207,38275842,78528,667357
+New York,New York,Financial Administration,March 2016,NA,215,30423484,81455,736440
+New York,New York,Higher Education - Other,March 2016,NA,NA,25009389,68084,5335832
+New York,New York,Parks and Recreation,March 2016,NA,NA,22014422,64260,3502497
+New York,New York,Police - Other,March 2016,NA,183,26783163,87455,261261
+New York,New York,Other Government Administration,March 2016,NA,907,19305514,78986,2726986
+New York,New York,Higher Education - Instructional,March 2016,NA,NA,18042053,82857,9454840
+New York,New York,Local Libraries,March 2016,NA,NA,9533302,56354,714010
+New York,New York,Water Supply,March 2016,NA,16,11661793,71399,31959
+New York,New York,Sewerage,March 2016,NA,16,11749432,74129,31018
+New York,New York,Fire - Other,March 2016,NA,5,13067361,103096,20135
+New York,New York,Totals for Government,March 2016,NA,NA,-2147483648,75738,71844558
+North Carolina,Charlotte,Police Protection - Officers,March 2016,NA,24,9416954,65509,70405
+North Carolina,Charlotte,Firefighters,March 2016,NA,0,6154381,66414,0
+North Carolina,Charlotte,Water Supply,March 2016,770,9,3541210,55188,28392
+North Carolina,Charlotte,Police - Other,March 2016,585,34,2118890,43464,101645
+North Carolina,Charlotte,Airports,March 2016,475,70,2277499,57537,141550
+North Carolina,Charlotte,Other and Unallocable,March 2016,423,11,2256897,64025,33298
+North Carolina,Charlotte,Streets and Highways,March 2016,403,4,1725584,51382,11412
+North Carolina,Charlotte,Transit,March 2016,372,28,1763537,56888,79276
+North Carolina,Charlotte,Financial Administration,March 2016,281,6,1859429,79406,25974
+North Carolina,Charlotte,Other Government Administration,March 2016,272,20,1439215,63495,48015
+North Carolina,Charlotte,Solid Waste Management,March 2016,248,0,990782,47941,0
+North Carolina,Charlotte,Parks and Recreation,March 2016,227,454,1226511,64838,411441
+North Carolina,Charlotte,Housing and Community Development (Local),March 2016,116,2,592530,61296,5536
+North Carolina,Charlotte,Sewerage,March 2016,114,6,682124,71803,19348
+North Carolina,Charlotte,Health,March 2016,70,0,234015,40117,0
+North Carolina,Charlotte,Judicial and Legal,March 2016,45,5,373891,99704,13171
+North Carolina,Charlotte,Fire - Other,March 2016,37,0,224453,72796,0
+North Carolina,Charlotte,Totals for Government,March 2016,NA,673,36877902,60830,989463
+Ohio,Columbus,Police Protection - Officers,March 2016,NA,0,14031386,89324,0
+Ohio,Columbus,Firefighters,March 2016,NA,0,11389059,89795,0
+Ohio,Columbus,Other Government Administration,March 2016,521,85,3050602,70263,45822
+Ohio,Columbus,Water Supply,March 2016,500,14,2593704,62249,25994
+Ohio,Columbus,Sewerage,March 2016,459,7,2397680,62684,12745
+Ohio,Columbus,Streets and Highways,March 2016,442,8,2165700,58797,5033
+Ohio,Columbus,Judicial and Legal,March 2016,439,41,1965400,53724,60007
+Ohio,Columbus,Health,March 2016,389,50,1917308,59146,107464
+Ohio,Columbus,Other and Unallocable,March 2016,382,32,1876638,58952,72868
+Ohio,Columbus,Police - Other,March 2016,360,9,1835694,61190,24483
+Ohio,Columbus,Parks and Recreation,March 2016,312,328,1448770,55722,279370
+Ohio,Columbus,Financial Administration,March 2016,303,6,1863598,73806,11778
+Ohio,Columbus,Welfare,March 2016,242,12,1060408,52582,28916
+Ohio,Columbus,Solid Waste Management,March 2016,197,0,813296,49541,0
+Ohio,Columbus,Electric Power,March 2016,95,1,561324,70904,839
+Ohio,Columbus,Correction,March 2016,66,2,264638,48116,5485
+Ohio,Columbus,Fire - Other,March 2016,46,6,217808,56819,7285
+Ohio,Columbus,Housing and Community Development (Local),March 2016,25,0,139992,67196,0
+Ohio,Columbus,Totals for Government,March 2016,NA,601,49593005,72708,688089
+Oklahoma,Oklahoma City,Police Protection - Officers,March 2016,NA,0,7884261,87847,0
+Oklahoma,Oklahoma City,Firefighters,March 2016,965,0,6076618,75564,0
+Oklahoma,Oklahoma City,Water Supply,March 2016,507,17,2246123,53163,21098
+Oklahoma,Oklahoma City,Streets and Highways,March 2016,368,9,1701041,55469,12686
+Oklahoma,Oklahoma City,Other Government Administration,March 2016,302,15,2034781,80852,21651
+Oklahoma,Oklahoma City,Police - Other,March 2016,247,134,1428267,69389,113879
+Oklahoma,Oklahoma City,Health,March 2016,190,24,887054,56024,35790
+Oklahoma,Oklahoma City,Parks and Recreation,March 2016,176,145,733748,50028,127558
+Oklahoma,Oklahoma City,Airports,March 2016,113,5,587530,62393,8326
+Oklahoma,Oklahoma City,Sewerage,March 2016,111,1,454254,49109,1794
+Oklahoma,Oklahoma City,Solid Waste Management,March 2016,111,6,468693,50670,6599
+Oklahoma,Oklahoma City,Financial Administration,March 2016,86,2,486005,67815,4475
+Oklahoma,Oklahoma City,Housing and Community Development (Local),March 2016,72,3,367501,61250,3082
+Oklahoma,Oklahoma City,Judicial and Legal,March 2016,64,3,270223,50667,3463
+Oklahoma,Oklahoma City,Correction,March 2016,31,0,154482,59799,0
+Oklahoma,Oklahoma City,Fire - Other,March 2016,29,0,219927,91004,0
+Oklahoma,Oklahoma City,Transit,March 2016,26,0,143220,66102,0
+Oklahoma,Oklahoma City,Totals for Government,March 2016,NA,364,26143728,70106,360401
+Oregon,Portland,Police Protection - Officers,March 2016,911,1,7240123,95369,5496
+Oregon,Portland,Streets and Highways,March 2016,702,24,4182467,71495,79818
+Oregon,Portland,Firefighters,March 2016,678,2,5932151,104994,8755
+Oregon,Portland,Parks and Recreation,March 2016,675,NA,2713687,48243,704054
+Oregon,Portland,Other Government Administration,March 2016,559,43,3698258,79390,143610
+Oregon,Portland,Water Supply,March 2016,546,26,3448788,75798,66962
+Oregon,Portland,Sewerage,March 2016,518,26,3714478,86050,65857
+Oregon,Portland,Financial Administration,March 2016,488,26,3580522,88046,70113
+Oregon,Portland,Police - Other,March 2016,385,9,2261942,70502,23097
+Oregon,Portland,Other and Unallocable,March 2016,193,18,1114463,69293,30601
+Oregon,Portland,Judicial and Legal,March 2016,64,4,541672,101564,28972
+Oregon,Portland,Fire - Other,March 2016,60,4,413615,82723,16031
+Oregon,Portland,Housing and Community Development (Local),March 2016,57,4,376628,79290,11479
+Oregon,Portland,Solid Waste Management,March 2016,35,0,188121,64499,0
+Oregon,Portland,Totals for Government,March 2016,NA,NA,39406915,80546,1254845
+Pennsylvania,Philadelphia,Police Protection - Officers,March 2016,NA,0,46246336,87657,0
+Pennsylvania,Philadelphia,Judicial and Legal,March 2016,NA,8,14103669,52236,22048
+Pennsylvania,Philadelphia,Correction,March 2016,NA,0,13374875,61494,0
+Pennsylvania,Philadelphia,Firefighters,March 2016,NA,0,17404368,85701,0
+Pennsylvania,Philadelphia,Gas Supply,March 2016,NA,14,8309116,61854,52634
+Pennsylvania,Philadelphia,Financial Administration,March 2016,NA,25,7732022,58355,20544
+Pennsylvania,Philadelphia,Welfare,March 2016,NA,0,8556611,65318,0
+Pennsylvania,Philadelphia,Health,March 2016,NA,70,7696363,65131,179570
+Pennsylvania,Philadelphia,Other Government Administration,March 2016,NA,26,6505835,59234,34182
+Pennsylvania,Philadelphia,Water Supply,March 2016,NA,0,6255512,56998,0
+Pennsylvania,Philadelphia,Solid Waste Management,March 2016,NA,0,4223026,44453,0
+Pennsylvania,Philadelphia,Police - Other,March 2016,793,856,3403393,51502,1053136
+Pennsylvania,Philadelphia,Airports,March 2016,729,0,3441153,56644,0
+Pennsylvania,Philadelphia,Sewerage,March 2016,701,0,2904182,49715,0
+Pennsylvania,Philadelphia,Local Libraries,March 2016,653,37,2959121,54379,54578
+Pennsylvania,Philadelphia,Other and Unallocable,March 2016,621,2,3064281,59213,3946
+Pennsylvania,Philadelphia,Parks and Recreation,March 2016,611,89,3446159,67682,170321
+Pennsylvania,Philadelphia,Streets and Highways,March 2016,529,0,2364038,53627,0
+Pennsylvania,Philadelphia,Housing and Community Development (Local),March 2016,236,32,1098815,55872,58513
+Pennsylvania,Philadelphia,Fire - Other,March 2016,113,0,478826,50849,0
+Pennsylvania,Philadelphia,Natural Resources,March 2016,0,2,0,NA,2394
+Pennsylvania,Philadelphia,Totals for Government,March 2016,NA,NA,163567701,66376,1651866
+Tennessee,Memphis,Police Protection - Officers,March 2016,NA,0,10049494,56723,0
+Tennessee,Memphis,Firefighters,March 2016,NA,0,7557622,55503,0
+Tennessee,Memphis,Electric Power,March 2016,NA,28,10150177,76750,69974
+Tennessee,Memphis,Gas Supply,March 2016,614,34,3929103,76790,72846
+Tennessee,Memphis,Solid Waste Management,March 2016,561,108,1849746,39567,174220
+Tennessee,Memphis,Transit,March 2016,492,0,1894506,46207,0
+Tennessee,Memphis,Police - Other,March 2016,347,292,1298597,44908,535879
+Tennessee,Memphis,Water Supply,March 2016,332,30,2291972,82842,72846
+Tennessee,Memphis,Parks and Recreation,March 2016,253,594,722218,34255,970048
+Tennessee,Memphis,Other and Unallocable,March 2016,253,8,944385,44793,10983
+Tennessee,Memphis,Local Libraries,March 2016,250,21,728312,34959,35154
+Tennessee,Memphis,Other Government Administration,March 2016,216,207,1129049,62725,360767
+Tennessee,Memphis,Streets and Highways,March 2016,210,42,844335,48248,43294
+Tennessee,Memphis,Sewerage,March 2016,190,25,744656,47031,39184
+Tennessee,Memphis,Fire - Other,March 2016,141,8,641390,54586,18848
+Tennessee,Memphis,Housing and Community Development (Local),March 2016,131,6,375596,34406,10029
+Tennessee,Memphis,Financial Administration,March 2016,75,13,361370,57819,16984
+Tennessee,Memphis,Judicial and Legal,March 2016,60,1,347355,69471,1488
+Tennessee,Memphis,Health,March 2016,45,12,149781,39942,17562
+Tennessee,Memphis,Natural Resources,March 2016,16,3,63312,47484,4464
+Tennessee,Memphis,Water Transport and Terminals,March 2016,6,0,29603,59206,0
+Tennessee,Memphis,Totals for Government,March 2016,NA,NA,46102579,57997,2454570
+Texas,Austin,Police Protection - Officers,March 2016,NA,0,16612343,110259,0
+Texas,Austin,Electric Power,March 2016,NA,47,11548663,84143,176363
+Texas,Austin,Parks and Recreation,March 2016,NA,470,4060379,40945,445231
+Texas,Austin,Health,March 2016,NA,33,5734472,64013,66445
+Texas,Austin,Firefighters,March 2016,NA,0,9286636,107775,0
+Texas,Austin,Other Government Administration,March 2016,926,35,5599083,72558,79941
+Texas,Austin,Streets and Highways,March 2016,696,16,2528208,43590,23846
+Texas,Austin,Other and Unallocable,March 2016,601,31,2999324,59887,73881
+Texas,Austin,Police - Other,March 2016,580,10,2462476,50948,15285
+Texas,Austin,Water Supply,March 2016,578,1,3027188,62848,1366
+Texas,Austin,Sewerage,March 2016,526,3,2920666,66631,9354
+Texas,Austin,Financial Administration,March 2016,461,22,3131816,81522,53264
+Texas,Austin,Solid Waste Management,March 2016,411,10,1920961,56086,18615
+Texas,Austin,Airports,March 2016,384,3,1877906,58685,3252
+Texas,Austin,Local Libraries,March 2016,368,56,1473370,48045,80183
+Texas,Austin,Natural Resources,March 2016,329,19,1757765,64113,17666
+Texas,Austin,Judicial and Legal,March 2016,255,16,1320885,62159,44161
+Texas,Austin,Fire - Other,March 2016,94,0,531983,67913,0
+Texas,Austin,Housing and Community Development (Local),March 2016,52,2,289924,66906,4319
+Texas,Austin,Totals for Government,March 2016,NA,774,79084048,72917,1113172
+Texas,Dallas,Police Protection - Officers,March 2016,NA,0,22859159,78712,0
+Texas,Dallas,Airports,March 2016,NA,2,12002540,72087,4579
+Texas,Dallas,Firefighters,March 2016,NA,0,12330870,77028,0
+Texas,Dallas,Water Supply,March 2016,NA,0,5511871,52661,0
+Texas,Dallas,Parks and Recreation,March 2016,851,237,3423195,48271,221001
+Texas,Dallas,Other and Unallocable,March 2016,701,7,3460811,59244,11142
+Texas,Dallas,Streets and Highways,March 2016,656,0,2946902,53907,0
+Texas,Dallas,Police - Other,March 2016,560,1,2333735,50009,992
+Texas,Dallas,Solid Waste Management,March 2016,494,1,2047831,49745,1384
+Texas,Dallas,Other Government Administration,March 2016,456,9,2539396,66826,22203
+Texas,Dallas,Health,March 2016,409,2,1688765,49548,9637
+Texas,Dallas,Local Libraries,March 2016,401,0,1191822,35665,0
+Texas,Dallas,Judicial and Legal,March 2016,337,14,1807752,64371,31027
+Texas,Dallas,Financial Administration,March 2016,326,1,2143586,78905,5053
+Texas,Dallas,Welfare,March 2016,281,0,1073678,45851,0
+Texas,Dallas,Sewerage,March 2016,228,0,1131591,59557,0
+Texas,Dallas,Natural Resources,March 2016,152,0,691902,54624,0
+Texas,Dallas,Fire - Other,March 2016,94,1,421768,53843,1063
+Texas,Dallas,Housing and Community Development (Local),March 2016,91,1,449657,59295,2544
+Texas,Dallas,Totals for Government,March 2016,NA,276,80056831,65366,310625
+Texas,El Paso,Police Protection - Officers,March 2016,NA,0,5626813,66068,0
+Texas,El Paso,Firefighters,March 2016,849,1,4283506,60544,928
+Texas,El Paso,Other and Unallocable,March 2016,659,2,2533229,46129,1613
+Texas,El Paso,Transit,March 2016,581,0,1592641,32894,0
+Texas,El Paso,Parks and Recreation,March 2016,384,214,1081124,33785,178277
+Texas,El Paso,Health,March 2016,374,8,1144577,36724,31992
+Texas,El Paso,Solid Waste Management,March 2016,351,2,887318,30336,1537
+Texas,El Paso,Airports,March 2016,264,0,916558,41662,0
+Texas,El Paso,Sewerage,March 2016,231,0,690256,35857,0
+Texas,El Paso,Police - Other,March 2016,216,0,624747,34708,0
+Texas,El Paso,Streets and Highways,March 2016,214,9,650078,36453,12574
+Texas,El Paso,Other Government Administration,March 2016,192,10,783333,48958,9927
+Texas,El Paso,Water Supply,March 2016,187,0,600741,38550,0
+Texas,El Paso,Financial Administration,March 2016,162,2,720636,53380,3343
+Texas,El Paso,Local Libraries,March 2016,125,23,390397,37478,25178
+Texas,El Paso,Judicial and Legal,March 2016,124,1,505130,48884,3468
+Texas,El Paso,Fire - Other,March 2016,65,1,220839,40770,1026
+Texas,El Paso,Housing and Community Development (Local),March 2016,37,1,153091,49651,636
+Texas,El Paso,Totals for Government,March 2016,NA,274,23405014,46523,270499
+Texas,Fort Worth,Police Protection - Officers,March 2016,NA,1,10926764,80295,860
+Texas,Fort Worth,Firefighters,March 2016,929,0,6770325,87453,0
+Texas,Fort Worth,Water Supply,March 2016,550,0,2291778,50002,0
+Texas,Fort Worth,Police - Other,March 2016,451,191,1604430,42690,80845
+Texas,Fort Worth,Parks and Recreation,March 2016,412,211,1781004,51874,122994
+Texas,Fort Worth,Judicial and Legal,March 2016,366,119,1714059,56199,79387
+Texas,Fort Worth,Other and Unallocable,March 2016,240,14,1006427,50321,16060
+Texas,Fort Worth,Sewerage,March 2016,232,1,896505,46371,50
+Texas,Fort Worth,Other Government Administration,March 2016,223,133,945056,50855,86768
+Texas,Fort Worth,Financial Administration,March 2016,221,1,1252968,68034,1345
+Texas,Fort Worth,Streets and Highways,March 2016,197,3,899475,54790,779
+Texas,Fort Worth,Welfare,March 2016,191,32,655285,41170,39483
+Texas,Fort Worth,Local Libraries,March 2016,184,58,666217,43449,61989
+Texas,Fort Worth,Health,March 2016,162,3,623867,46212,3896
+Texas,Fort Worth,Natural Resources,March 2016,133,2,737581,66549,3216
+Texas,Fort Worth,Fire - Other,March 2016,50,2,204276,49026,649
+Texas,Fort Worth,Solid Waste Management,March 2016,36,0,141926,47309,0
+Texas,Fort Worth,Housing and Community Development (Local),March 2016,20,0,84004,50402,0
+Texas,Fort Worth,Airports,March 2016,20,0,90843,54506,0
+Texas,Fort Worth,Totals for Government,March 2016,NA,771,33292790,63922,498321
+Texas,Houston,Police Protection - Officers,March 2016,NA,0,37051765,85356,0
+Texas,Houston,Firefighters,March 2016,NA,0,21880710,64832,0
+Texas,Houston,Other and Unallocable,March 2016,NA,69,13509306,57609,118531
+Texas,Houston,Police - Other,March 2016,NA,2,4898095,45920,4198
+Texas,Houston,Airports,March 2016,NA,1,5372442,54085,3702
+Texas,Houston,Health,March 2016,NA,57,4795078,52645,122032
+Texas,Houston,Financial Administration,March 2016,794,22,4811110,72712,21268
+Texas,Houston,Streets and Highways,March 2016,784,1,2661031,40730,1448
+Texas,Houston,Parks and Recreation,March 2016,650,148,2272495,41954,168117
+Texas,Houston,Sewerage,March 2016,613,0,2459939,48155,0
+Texas,Houston,Water Supply,March 2016,600,0,2361436,47229,0
+Texas,Houston,Other Government Administration,March 2016,559,18,1667800,35803,20449
+Texas,Houston,Judicial and Legal,March 2016,483,60,2272495,56460,239747
+Texas,Houston,Local Libraries,March 2016,458,63,1672262,43815,78505
+Texas,Houston,Solid Waste Management,March 2016,455,3,1642756,43325,5589
+Texas,Houston,Fire - Other,March 2016,231,22,810400,42099,46041
+Texas,Houston,Housing and Community Development (Local),March 2016,125,18,691183,66354,38267
+Texas,Houston,Totals for Government,March 2016,NA,484,110830303,62177,867894
+Texas,San Antonio,Electric Power,March 2016,NA,0,18727572,80751,0
+Texas,San Antonio,Police Protection - Officers,March 2016,NA,0,15519816,95801,0
+Texas,San Antonio,Firefighters,March 2016,NA,0,12378831,99562,0
+Texas,San Antonio,Water Supply,March 2016,NA,14,6500348,56813,20232
+Texas,San Antonio,Parks and Recreation,March 2016,864,407,3140289,43615,251388
+Texas,San Antonio,Other and Unallocable,March 2016,633,29,2593887,49173,42049
+Texas,San Antonio,Welfare,March 2016,606,113,2320416,45949,175690
+Texas,San Antonio,Police - Other,March 2016,583,213,2070207,42611,193686
+Texas,San Antonio,Financial Administration,March 2016,502,0,2865742,68504,0
+Texas,San Antonio,Solid Waste Management,March 2016,497,9,1823666,44032,16711
+Texas,San Antonio,Sewerage,March 2016,483,3,1554189,38613,6344
+Texas,San Antonio,Streets and Highways,March 2016,474,4,1841688,46625,4486
+Texas,San Antonio,Health,March 2016,415,23,1573753,45506,42957
+Texas,San Antonio,Airports,March 2016,396,30,1740679,52748,46540
+Texas,San Antonio,Other Government Administration,March 2016,395,9,1942520,59013,7385
+Texas,San Antonio,Gas Supply,March 2016,309,0,2080842,80809,0
+Texas,San Antonio,Local Libraries,March 2016,278,182,1068045,46103,189034
+Texas,San Antonio,Judicial and Legal,March 2016,180,12,949709,63314,22112
+Texas,San Antonio,Natural Resources,March 2016,161,0,560841,41802,0
+Texas,San Antonio,Fire - Other,March 2016,127,0,498558,47108,0
+Texas,San Antonio,Housing and Community Development (Local),March 2016,18,0,106961,71307,0
+Texas,San Antonio,Totals for Government,March 2016,NA,NA,81858559,67684,1018614
+Virginia,Virginia Beach,Elementary and Secondary - Instruction,March 2016,NA,NA,29194648,51114,1505838
+Virginia,Virginia Beach,Elementary and Secondary - Other Total,March 2016,NA,NA,7323532,33038,1692512
+Virginia,Virginia Beach,Police Protection - Officers,March 2016,866,52,4397000,60928,65022
+Virginia,Virginia Beach,Parks and Recreation,March 2016,635,820,2317254,43791,522052
+Virginia,Virginia Beach,Health,March 2016,584,90,2497676,51322,170904
+Virginia,Virginia Beach,Correction,March 2016,508,30,2191208,51761,47480
+Virginia,Virginia Beach,Firefighters,March 2016,476,7,2592996,65370,9610
+Virginia,Virginia Beach,Other and Unallocable,March 2016,412,2,1781608,51891,5272
+Virginia,Virginia Beach,Financial Administration,March 2016,383,11,2048880,64195,13822
+Virginia,Virginia Beach,Welfare,March 2016,349,8,1516268,52135,13200
+Virginia,Virginia Beach,Water Supply,March 2016,286,0,1278296,53635,0
+Virginia,Virginia Beach,Sewerage,March 2016,259,0,1077382,49917,0
+Virginia,Virginia Beach,Judicial and Legal,March 2016,235,41,1163870,59432,55992
+Virginia,Virginia Beach,Streets and Highways,March 2016,228,1,1009516,53132,3112
+Virginia,Virginia Beach,Other Government Administration,March 2016,186,14,965462,62288,31834
+Virginia,Virginia Beach,Local Libraries,March 2016,183,91,708640,46468,89242
+Virginia,Virginia Beach,Solid Waste Management,March 2016,152,0,510304,40287,0
+Virginia,Virginia Beach,Housing and Community Development (Local),March 2016,59,0,270270,54970,0
+Virginia,Virginia Beach,Natural Resources,March 2016,27,2,125404,55735,1980
+Virginia,Virginia Beach,Fire - Other,March 2016,20,0,114460,68676,0
+Virginia,Virginia Beach,Police - Other,March 2016,16,1,107884,80913,1954
+Virginia,Virginia Beach,Totals for Government,March 2016,NA,NA,63192558,49311,4229826
+Washington,Seattle,Electric Power,March 2016,NA,210,17209548,117941,1248244
+Washington,Seattle,Police Protection - Officers,March 2016,NA,1,14622516,127801,4411
+Washington,Seattle,Firefighters,March 2016,997,0,9673247,116428,0
+Washington,Seattle,Parks and Recreation,March 2016,933,NA,5404122,69506,1964355
+Washington,Seattle,Financial Administration,March 2016,797,83,6121063,92162,493901
+Washington,Seattle,Water Supply,March 2016,795,110,6026057,90959,477794
+Washington,Seattle,Streets and Highways,March 2016,727,59,5807972,95867,190134
+Washington,Seattle,Police - Other,March 2016,557,27,3548413,76447,117189
+Washington,Seattle,Other and Unallocable,March 2016,438,219,3315616,90839,604212
+Washington,Seattle,Welfare,March 2016,381,112,2507284,78970,270229
+Washington,Seattle,Local Libraries,March 2016,342,340,2029344,71205,1044831
+Washington,Seattle,Judicial and Legal,March 2016,325,45,2255148,83267,182548
+Washington,Seattle,Sewerage,March 2016,308,43,2343042,91287,185772
+Washington,Seattle,Other Government Administration,March 2016,250,46,2104767,101029,291599
+Washington,Seattle,Solid Waste Management,March 2016,191,24,1462480,91884,115956
+Washington,Seattle,Fire - Other,March 2016,87,8,690279,95211,12608
+Washington,Seattle,Housing and Community Development (Local),March 2016,79,10,558525,84839,55054
+Washington,Seattle,Correction,March 2016,39,8,267929,82440,31020
+Washington,Seattle,Totals for Government,March 2016,NA,NA,85947352,99457,7289857
+Wisconsin,Milwaukee,Police Protection - Officers,March 2016,NA,0,12991854,82184,0
+Wisconsin,Milwaukee,Firefighters,March 2016,816,0,5193804,76379,0
+Wisconsin,Milwaukee,Streets and Highways,March 2016,534,15,2563893,57616,36115
+Wisconsin,Milwaukee,Solid Waste Management,March 2016,519,12,2499200,57785,32920
+Wisconsin,Milwaukee,Police - Other,March 2016,410,199,1483399,43417,158102
+Wisconsin,Milwaukee,Other and Unallocable,March 2016,395,46,1842208,55966,58765
+Wisconsin,Milwaukee,Water Supply,March 2016,296,1,1435734,58205,3102
+Wisconsin,Milwaukee,Local Libraries,March 2016,265,54,1022768,46314,67042
+Wisconsin,Milwaukee,Financial Administration,March 2016,262,16,1428544,65429,17300
+Wisconsin,Milwaukee,Health,March 2016,215,4,958874,53519,13195
+Wisconsin,Milwaukee,Other Government Administration,March 2016,169,33,896425,63651,45291
+Wisconsin,Milwaukee,Natural Resources,March 2016,162,0,800482,59295,0
+Wisconsin,Milwaukee,Housing and Community Development (Local),March 2016,101,9,519874,61767,6867
+Wisconsin,Milwaukee,Sewerage,March 2016,89,6,414948,55948,23409
+Wisconsin,Milwaukee,Judicial and Legal,March 2016,85,0,550651,77739,0
+Wisconsin,Milwaukee,Fire - Other,March 2016,70,1,346308,59367,4247
+Wisconsin,Milwaukee,Water Transport and Terminals,March 2016,19,0,100688,63592,0
+Wisconsin,Milwaukee,Totals for Government,March 2016,NA,396,35049654,66719,466355
