@@ -1,6 +1,6 @@
 # Police Reform
 
-DATA SOURCES:
+## DATA SOURCES:
     
     1. Connor Brooks and Kevin M. Scott (2015), ``Number of arrest-related deaths,
     percent confirmed by survey respondents, and death-identification source,
@@ -17,7 +17,7 @@ DATA SOURCES:
 
     5. Mapping Police Violence database (mappingpoliceviolence.org)
 
-VARIABLES (arrest-related_deaths.csv):
+## VARIABLES (arrest-related_deaths.csv):
 
 num_deaths:    Number of deaths that met Arrest-Related Deaths
                program-eligibility criteria (June-August 2015) [1]
@@ -29,7 +29,7 @@ Deaths were initially identified by a survey respondent or were
 confirmed by either the law enforcement agency or medical examiner's/
 coroner’s office respondent associated with a media-identified death.
 
-VARIABLES (policies_by_city.csv; aggregated in cantwait_data.csv):
+## VARIABLES (policies_by_city.csv; aggregated in cantwait_data.csv):
 
 pop2010:             total population of city (NOT metro area) [2]
 black_pop2010:       total Black population of city [2]
