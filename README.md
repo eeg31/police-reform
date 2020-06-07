@@ -17,7 +17,7 @@ DATA SOURCES:
 
     5. Mapping Police Violence database (mappingpoliceviolence.org)
 
-VARIABLES (custody_deaths.csv):
+VARIABLES (arrest-related_deaths.csv):
 
 num_deaths:    Number of deaths that met Arrest-Related Deaths
                program-eligibility criteria (June-August 2015) [1]
